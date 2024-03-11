@@ -52,11 +52,11 @@ header {
     background-image: url(/img/demac.jpeg);
     background-position: center;
     background-size: cover;
-    padding: 0rem;
+    padding: 40px 0px;
 }
 
 header .jumbotron {
-    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.9), rgba(255, 255, 255, 0.2));
+    background-image: linear-gradient(to top, rgba(136, 30, 63, 0.6), rgba(28, 2, 63, 0.9));
     height: 100%;
 }
 
