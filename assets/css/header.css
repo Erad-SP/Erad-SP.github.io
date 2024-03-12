@@ -56,7 +56,7 @@ header {
 }
 
 header .jumbotron {
-    background-image: linear-gradient(to top, rgba(136, 30, 63, 0.6), rgba(28, 2, 63, 0.9));
+    background-image: linear-gradient(to top, rgba(28, 2, 63, 0.9),rgba(136, 30, 63, 0.6));
     height: 100%;
 }
 
