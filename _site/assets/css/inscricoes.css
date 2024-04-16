@@ -1,3 +1,6 @@
+.inscreva-se-container {
+    text-align: center; /* Centralizar conteúdo */
+}
 .inscreva-se-btn {
     background-color: #FF0000; /* Vermelho */
     color: #FFFFFF; /* Texto branco */
