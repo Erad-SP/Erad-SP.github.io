@@ -29,8 +29,8 @@ keynotes:
   - id: PI2
     date: "A definir"
     name: "Palestra Industrial 1"
-    title: "SDC - Do Render à Inteligência Artificial: Maximizando o Potencial do Hardware com GPUs"
-    abstract: "Nossa palestra vai explorar desde os incríveis mini PCs super potentes equipados com GPUs de última geração até os impressionantes clusters de altíssima performance."
+    title: "Vircos: Observabilidade em High Performance Computing (HPC): um conceito crucial para entender, monitorar e otimizar sistemas de computação de alto desempenho"
+    abstract: "A observabilidade em HPC refere-se à capacidade de compreender e monitorar efetivamente o comportamento interno e o desempenho de sistemas de computação de alto desempenho. Ela permite que tenhamos uma visão abrangente e detalhada do que está acontecendo dentro desses sistemas, facilitando a identificação de problemas, diagnósticos de falhas e otimização do desempenho. Vamos explorar as principais ferramentas, falar sobre os desafios e como isso tudo pode sair do papel e se tornar realidade."
     speaker:
       name: "Guilherme Friol"
       bio: "é especialista em computação com anos de experiência em ambientes computacionais de alta demanda, virtualização e HPC. Atua como consultor em arquitetura e otimização de sistemas de alto desempenho. Desenvolveu projetos relevantes junto a grandes instituições de pesquisa e notórios nomes da computação nacional em machine learning e redes neurais. Entre os projetos estão: Predição de Inibidores de Protease de Cisteína para Agentes Tripanocidas e Câncer (USP); Simulação de controle de veículo espacial e orientação de órbita (LAC-INPE); Pesquisa sobre plasmas astrofísicos e turbulências espaciais (ITA); Pesquisa em Astrofísica e física molecular (UNIVAP), entre  outros."
