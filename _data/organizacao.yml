@@ -11,10 +11,50 @@ coordenacao-desafio:
 #    - César De Rose (PUCRS)
 #    - Adenauer Yamin (UCPEL/UFPEL)
 
-equipe-local:
-    - Daniel Pedronette 
-    - Gustavo Manarin
+coordenacao-local:
+    - Daniel Pedronette
     - Eduardo Paschoal
+    - Gustavo Manarin
+
+artes:
+    - Alisson Pereira
+    - Rafael Kaneko
+
+coffee:
+    - José Russino
+
+desenvolvimento:
+    - André Bocces
+    - Pedro Cattai
+
+infraestrutura:
+    - Alisson Pereira
+    - Eduardo Paschoal
+    - Jeferson Dietrich Filho
+    - João Pedro Ragazzo
+    - Júlia Cruz
+    - Rafael Kaneko
+    - Thiago Uliame
+
+midias-sociais:
+    - Jeferson Dietrich Filho
+
+musicas:
+    - Thiago Uliame
+
+organizacao-local:
+    - André Pupin
+    - Bruno Chronorio
+    - Edgar de França
+    - Giovana Zambanini
+    - Laura Mendes
+    - Leticia Lunardi
+    - Lucas Spagnol
+    - Otávio Souza
+    - Pamela de Oliveira
+    - Pedro Poli
+    - Yasmin de Alencar
+    - Ygor da Silva
 
 comite-cientifico:
     - Bruno Honorio	(UNESP)

@@ -14,6 +14,7 @@ title: "Organização"
                 {% endfor %}
             </ul>
         </div>
+
         <div class="row mt-5">
           <div class="col-lg-6 col-sm-12">
             <h4>Coordenação de Programa</h4>
@@ -34,14 +35,80 @@ title: "Organização"
             
         <div class="row mt-5">
          <div class="col-lg-6 col-sm-12">
-          <h4>Equipe Local</h4>
+          <h4>Coordenação Local</h4>
           <ul>
-            {% for nome in site.data.organizacao.equipe-local %}
+            {% for nome in site.data.organizacao.coordenacao-local %}
               <li>{{ nome }}</li>
             {% endfor %}
           </ul>
          </div>
         </div>
+
+        <div class="row mt-5">
+          <div class="col-lg-6 col-sm-12">
+            <h4>Organização Local</h4>
+            <ul>
+              {% for nome in site.data.organizacao.organizacao-local %}
+                <li>{{ nome }}</li>
+              {% endfor %}
+            </ul>
+          </div> 
+          <div class="col-lg-6 col-sm-12">
+            <h4>Infraestrutura</h4>
+            <ul>
+              {% for nome in site.data.organizacao.infraestrutura %}
+                <li>{{ nome }}</li>
+              {% endfor %}
+            </ul>
+          </div>
+
+          <div class="row mt-5">
+            <div class="col-lg-6 col-sm-12">
+             <h4>Desenvolvimento</h4>
+             <ul>
+                 {% for nome in site.data.organizacao.desenvolvimento %}
+                  <li>{{ nome }}</li>
+                 {% endfor %}
+             </ul>
+            </div> 
+           </div>
+
+          <div class="row mt-5">
+            <div class="col-lg-6 col-sm-12">
+              <h4>Artes</h4>
+              <ul>
+                {% for nome in site.data.organizacao.artes %}
+                  <li>{{ nome }}</li>
+                {% endfor %}
+              </ul>
+            </div> 
+            <div class="col-lg-6 col-sm-12">
+              <h4>Coffee</h4>
+              <ul>
+                {% for nome in site.data.organizacao.coffee %}
+                  <li>{{ nome }}</li>
+                {% endfor %}
+              </ul>
+            </div>
+
+            <div class="row mt-5">
+              <div class="col-lg-6 col-sm-12">
+                <h4>Mídias Sociais</h4>
+                <ul>
+                  {% for nome in site.data.organizacao.midias-sociais %}
+                    <li>{{ nome }}</li>
+                  {% endfor %}
+                </ul>
+              </div> 
+              <div class="col-lg-6 col-sm-12">
+                <h4>Músicas</h4>
+                <ul>
+                  {% for nome in site.data.organizacao.musicas %}
+                    <li>{{ nome }}</li>
+                  {% endfor %}
+                </ul>
+              </div> 
+
         <div class="row mt-5">
          <div class="col-lg-6 col-sm-12">
           <h4>Comitê Científico</h4>
