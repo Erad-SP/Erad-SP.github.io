@@ -1,4 +1,14 @@
 tutorials:
+  - id: TUT1
+    date: "a definir"
+    name: "Tutorial"
+    title: "Armazenamento: Melhores Práticas – Entendendo do básico ao avançado"
+    pdf: ""
+    abstract: "Resumo: O minicurso de armazenamento abordará as principais formas de conexões existentes, tais como SATA, SCSI, SAS, iSCSI, Fibre Channel, entre outras. Os participantes poderão compreender as vantagens e desvantagens de cada uma dessas opções, bem como entender a importância da escolha correta na hora de definir a solução de armazenamento adequada para cada situação, desde o seu notebook até um sistema de storage distribuido. Serão discutidos os diversos tipos de dispositivos de armazenamento existentes no mercado, tais como unidades de disco rígido (HDD), unidades de estado sólido (SSD), unidades de fita (tape drive), cartões de memória, entre outros. O treinamento disponibilizado será interativo, com vários equipamentos para serem vistos durante o minicurso."
+    authors:
+      - name: "Guilherme Friol"
+        bio: "Guilherme Friol é especialista em computação com anos de experiência em ambientes computacionais de alta demanda, virtualização e HPC. Atua como consultor em arquitetura e otimização de sistemas de alto desempenho. Desenvolveu projetos relevantes junto a grandes instituições de pesquisa e notórios nomes da computação nacional em machine learning e redes neurais. Entre os projetos estão: Predição de Inibidores de Protease de Cisteína para Agentes Tripanocidas e Câncer (USP); Simulação de controle de veículo espacial e orientação de órbita (LAC-INPE); Pesquisa sobre plasmas astrofísicos e turbulências espaciais (ITA); Pesquisa em Astrofísica e física molecular (UNIVAP), entre outros." 
+        photo: "Guilherme_Friol.png"
   - id: MC1
     date: "a definir"
     name: "Minicurso 1"
@@ -12,14 +22,13 @@ tutorials:
   - id: MC2
     date: "a definir"
     name: "Minicurso 2"
-    title: "Programação de sistemas heterogêneos em OpenMP"
+    title: "Descascando o pinguim!"
     pdf: ""
-    abstract: "Arquiteturas heterogêneas com CPUs e GPUs têm se tornado cada vez mais frequentes em sistemas de computação de alto desempenho. Extrair todo o seu potencial de desempenho, assim como a capacidade de escrever e otimizar códigos de aplicações que possam ser executadas de forma eficiente em diferentes infra-estruturas de HPC, são requisitos importantes para a resolução de problemas e aplicações da indústria. Este minicurso explora a abordagem de programação por diretivas
-oferecida pelo OpenMP, mostrando de forma simplificada alguns caminhos para a implementação e otimização de aplicações para sistemas heterogêneos com foco em GPUs." 
+    abstract: "Como tirar o máximo do Linux. Tunning e performance em linux em ambientes diversos. Dicas e práticas."
     authors:
-      - name: "Hermes Senger"
-        bio: "Hermes Senger é professor da UFSCAR desde 2009, atuando no ensino, pesquisa e extensão em temas relacionados à computação de alto desempenho." 
-        photo: "hermesSenger.jpeg"
+      - name: "Thiago dos Santos Nunes"
+        bio: "VMCA | MCSE | VMCE | ITILF | MCSA | ISFS | MCITP | VTSP | MCTS | MCP | SFPC | CTO na MGData Tecnologia." 
+        photo: "thiago-mgdata.jpeg"
   - id: MC3
     date: "a definir"
     name: "Minicurso 3"
