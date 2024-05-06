@@ -1,6 +1,6 @@
 tutorials:
   - id: TUT1
-    date: "a definir"
+    date: "Dia 16/05/2024, 8:30-10:30h (Auditório - IGCE)"
     name: "Tutorial"
     title: "Armazenamento: Melhores Práticas – Entendendo do básico ao avançado"
     pdf: ""
@@ -24,17 +24,17 @@ tutorials:
     name: "Minicurso II"
     title: "Descascando o pinguim!"
     pdf: ""
-    abstract: "Como tirar o máximo do Linux. Tunning e performance em linux em ambientes diversos. Dicas e práticas."
+    abstract: "O curso Descascando o Pinguim! é um mergulho em como maximizar a performance do Linux em diversos cenários, incluindo virtualização e servidores de alto desempenho. Os alunos descobrirão técnicas de otimização, desde fundamentos até estratégias avançadas, ajustes de sistema e práticas recomendadas para alcançar a máxima eficiência. Abordaremos ferramentas cruciais, configurações do kernel, ajustes de sistema de arquivos, gerenciamento de recursos e como monitorar efetivamente o desempenho. Combinando teoria e prática, incluiremos análise de casos reais. O curso é ideal para quem está começando ou já tem experiência com Linux e busca aprimorar suas habilidades em performance."
     authors:
       - name: "Thiago dos Santos Nunes"
-        bio: "VMCA | MCSE | VMCE | ITILF | MCSA | ISFS | MCITP | VTSP | MCTS | MCP | SFPC | CTO na MGData Tecnologia." 
+        bio: "Thiago dos Santos Nunes é um profissional de destaque na área de tecnologia. Atualmente, ele atua como CTO (Chief Technology Officer) da MGDATA TECNOLOGIA, uma empresa de destaque no setor. Em seu cargo, Thiago é responsável por supervisionar as 5 zonas de presença da computação em nuvem da empresa ao redor do mundo. Ele possui um impressionante currículo, com mais de 50 certificações em diversas áreas da TI, incluindo VMCA, MCSE, VMCE, ITILF, MCSA, ISFS, MCITP, VTSP, MCTS e MCP. Thiago é reconhecido internacionalmente por sua expertise na área de proteção de dados. Ele foi eleito um dos 100 profissionais mais influentes do mundo nesse campo por 3 anos consecutivos pela Veeam. Atualmente, ele trabalha com clientes de grande porte na América Latina, como empresas que integram a prestigiosa lista Fortune 100."
         photo: "thiago-mgdata.jpeg"
   - id: MC3
     date: "Dia 17/05/2024, 14-16h (Lab 1 - DEMAC)"
     name: "Minicurso III"
     title: "Técnicas para otimização de código"
     pdf: ""
-    abstract: "O minicurso abordará as principais técnicas para melhorar o desempenho de um código, focando nas linguagens C e Python, além da apresentação de ferramentas utilizadas com esse objetivo. O minicurso será de 3 horas, com uma parte teórica e uma parte prática."
+    abstract: "O minicurso abordará as principais técnicas para melhorar o desempenho de um código, focando nas linguagens C e Python, além da apresentação de ferramentas utilizadas com esse objetivo. O minicurso será de 2 horas, com uma parte teórica e uma parte prática."
     authors:
       - name: "Sarita Mazzini Bruschi"
         bio: "Possui graduação em Bacharelado Em Ciência da Computação pela Universidade Estadual Paulista Júlio de Mesquita Filho (1994), mestrado em Ciência da Computação São Carlos pela Universidade de São Paulo (1997), doutorado em Ciência da Computação São Carlos pela Universidade de São Paulo (2002) e pós-doutorado em Computação pela George Washington University (2016). Atualmente é professora doutora MS3 (nível 2) RDIDP da Universidade de São Paulo e Presidente da Comissão de Graduação do ICMC. Tem experiência na área de Ciência da Computação, com ênfase em Avaliação de Desempenho, atuando principalmente nos seguintes temas: Avaliação de Desempenho, Simulação, Arquitetura de Computadores (arquiteturas ARM e RISC-V), Escalonamento de Processos em Cloud Computing, e Processo de Ensino-Aprendizagem no Ensino Superior em Computação." 
