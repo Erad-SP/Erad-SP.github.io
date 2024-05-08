@@ -26,7 +26,7 @@ keynotes:
       name: "Profa. Milene Ferrro"
       bio: "Professora assistente de Bioinformática no Depto de Biologia Geral e Aplicada da Unesp de Rio Claro. Formada em Ciências Biológicas pelo Mackenzie. Mestre em Ciências pela USP. Doutora em Ciências pela Unesp de Rio Claro. Com pós-doutorados na Unesp, UFSCar e Centro de Investigação Príncipe Felipe na Espanha. Especialista em análises de dados transcriptômicos, metatranscriptômicos e bibliotecas de metabarcoding para organismos não-modelos. Interessada também em estudos sobre práticas de ensino-aprendizagem de conceitos de Bioinformática e computacionais para alunos de Biologia."
       photo: "mileneferro.jpeg"
-  - id: PI2
+  - id: PI1
     date: "A definir"
     name: "Palestra Industrial 1"
     title: "Vircos: Observabilidade em High Performance Computing (HPC): um conceito crucial para entender, monitorar e otimizar sistemas de computação de alto desempenho"
@@ -35,7 +35,7 @@ keynotes:
       name: "Guilherme Friol"
       bio: "é especialista em computação com anos de experiência em ambientes computacionais de alta demanda, virtualização e HPC. Atua como consultor em arquitetura e otimização de sistemas de alto desempenho. Desenvolveu projetos relevantes junto a grandes instituições de pesquisa e notórios nomes da computação nacional em machine learning e redes neurais. Entre os projetos estão: Predição de Inibidores de Protease de Cisteína para Agentes Tripanocidas e Câncer (USP); Simulação de controle de veículo espacial e orientação de órbita (LAC-INPE); Pesquisa sobre plasmas astrofísicos e turbulências espaciais (ITA); Pesquisa em Astrofísica e física molecular (UNIVAP), entre  outros."
       photo: "Guilherme_Friol.png"
-  - id: PI1
+  - id: PI2
     date: "A definir"
     name: "Palestra Industrial 2"
     title: "HPE Leadership Supercomputing"
