@@ -147,8 +147,6 @@ schedule:
         end_time: "12:30"
         room: "Auditório - IGCE"
         papers:
-          - title: "Paper 1"
-            authors: "Author 1 (UNI1)"
           - title: "Investigando a Efetividade de LLMs na Otimização de Código Paralelo"
             authors: "Pedro Cattai (UNESP) e Alexandro Baldassin (UNESP)"
           - title: "Study and analysis of parallel N-body simulations"
