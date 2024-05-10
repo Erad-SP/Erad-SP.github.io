@@ -1,6 +1,6 @@
 keynotes:
   - id: P1
-    date: "A definir"
+    date: "16/05/2024 - 16:30h"
     name: "Palestra Convidada 1"
     title: "Evolução e Desafios da Computação de Alto Desempenho"
     abstract: "Desde a construção dos primeiros computadores paralelos no final da década de 1970 e nos anos 1980, do ILLIAC IV ao Frontier, atingindo Eflops/s e aos serviços de nuvem,  a Computação de Alto Desempenho vem mostrando uma evolução rápida e crescente. Por outro lado, nota-se na sociedade atual a demanda cada vez mais intensa por processamento, quer seja para atender as aplicações científicas, comerciais, financeiras ou processar os dados gerados  Pretende-se apresentar uma breve introdução aos sistemas computacionais de alto desempenho, a necessidade de ferramentas e ambientes de programação e processamento, a evolução da área de computação de alto desempenho, os desafios que se impõem no cenário atual e uma visão das tendências futuras da pesquisa."
@@ -9,7 +9,7 @@ keynotes:
       bio: "Possui graduação em EESC pela Universidade de São Paulo(1977), mestrado em Engenharia Eletrônica e Computação pelo Instituto Tecnológico de Aeronáutica(1983) e doutorado em Engenharia Elétrica pela Universidade de São Paulo(1989). Atualmente é Professor Senior da Universidade de São Paulo e Revisor de projeto de fomento do Fundação de Amparo à Pesquisa do Estado de São Paulo. Tem experiência na área de Ciência da Computação, com ênfase em Sistemas de Computação. Atuando principalmente nos seguintes temas:Alto Desempenho, cluster de computadores, Linguagens de Programacao Paralela."
       photo: "liriasato.jpg"
   - id: P2
-    date: "A definir"
+    date: "17/05/2024 - 9:30h"
     name: "Palestra Convidada 2"
     title: "Using Convolution Slicing Optimization and Matrix Multiplication Extensions to Speed-up ML Models"
     abstract: "Convolution is one of the most computationally intensive operations in CNN. Optimizing convolution relies heavily on efficient tensor tiling and is central to ML code generation.  In this talk, we introduce two mechanisms for convolution slicing on Neuromorphic and CPU architectures. We show how Convolution Slicing Optimization (CSO) can be applied to generate efficient code for the LG NMP, a Neuromorphic 32-core RISCV-based engine. This talk also introduces SConv: a new direct-convolution algorithm based on an MLIR/LLVM code-generation toolchain that uses Vectorization and Matrix Multiplication ISA extensions to improve convolution performance, surpassing the traditional Img2col + GEMM method on Intel x86 and IBM POWER10. Experimental results show that SConv convolution speedup, over Im2col + GEMM based on current BLAS implementations, is 12% -- 27% on Intel x86 and 26% -- 46% on IBM POWER10. The final speed-up for end-to-end machine-learning model inference ranges from 9% to 25% for Intel x86 and 10% to 42% for IBM POWER10."
@@ -18,16 +18,16 @@ keynotes:
       bio: "Guido Araujo received a Ph.D. in Electrical Engineering from Princeton University in 1997. He is a Full Professor of Computer Science and Engineering with UNICAMP. His current research interests include code optimization, parallelizing compilers, and compiling for accelerators, which are explored in close cooperation with industry partners. He has published over 120 scientific papers and received five best paper awards. He was awarded two Inventor of the Year and two Zeferino Vaz Research Awards from UNICAMP. His students received two Best Ph.D. Thesis Awards from the Brazilian Computing Society. He was a member of the technical advisory board of Eldorado and SIDI R&D Institutes and the CI-Brasil Council at the Brazilian Ministry of Science and Technology.  He is the representative of Brazil in the Technical Steering Committee of RISC-V International and is currently a member of the Editorial Board of IEEE MICRO. He co-founded the companies Kryptus and Idea!"
       photo: "guidoaraujo.jpeg"
   - id: P3
-    date: "A definir"
+    date: "18/05/2024 - 9:30h"
     name: "Palestra Convidada 3"
     title: "Bioinformática: aplicando computação de alto desempenho para lidar com dados de sequenciamento de alto rendimento"
     abstract: "A palestra apresentará diferentes tipos de ômicas (genômica, transcriptômica, metatranscriptômica e metabarcoding) e aplicações nas Ciências Biológicas. Serão apresentadas algumas importantes ferramentas de Bioinformática aplicadas nessas análises, bem como o uso de servidores locais e nuvens para executar essas ferramentas. Serão abordados aspectos da importância da computação de alto desempenho para lidar com a quantidade massiva de dados biológicos advindos de plataformas de sequenciamento de alto rendimento."
     speaker:
-      name: "Profa. Milene Ferrro"
+      name: "Profa. Milene Ferro"
       bio: "Professora assistente de Bioinformática no Depto de Biologia Geral e Aplicada da Unesp de Rio Claro. Formada em Ciências Biológicas pelo Mackenzie. Mestre em Ciências pela USP. Doutora em Ciências pela Unesp de Rio Claro. Com pós-doutorados na Unesp, UFSCar e Centro de Investigação Príncipe Felipe na Espanha. Especialista em análises de dados transcriptômicos, metatranscriptômicos e bibliotecas de metabarcoding para organismos não-modelos. Interessada também em estudos sobre práticas de ensino-aprendizagem de conceitos de Bioinformática e computacionais para alunos de Biologia."
       photo: "mileneferro.jpeg"
   - id: PI1
-    date: "A definir"
+    date: "16/05/2024 - 11h"
     name: "Palestra Industrial 1"
     title: "Vircos: Observabilidade em High Performance Computing (HPC): um conceito crucial para entender, monitorar e otimizar sistemas de computação de alto desempenho"
     abstract: "A observabilidade em HPC refere-se à capacidade de compreender e monitorar efetivamente o comportamento interno e o desempenho de sistemas de computação de alto desempenho. Ela permite que tenhamos uma visão abrangente e detalhada do que está acontecendo dentro desses sistemas, facilitando a identificação de problemas, diagnósticos de falhas e otimização do desempenho. Vamos explorar as principais ferramentas, falar sobre os desafios e como isso tudo pode sair do papel e se tornar realidade."
@@ -36,7 +36,7 @@ keynotes:
       bio: "é especialista em computação com anos de experiência em ambientes computacionais de alta demanda, virtualização e HPC. Atua como consultor em arquitetura e otimização de sistemas de alto desempenho. Desenvolveu projetos relevantes junto a grandes instituições de pesquisa e notórios nomes da computação nacional em machine learning e redes neurais. Entre os projetos estão: Predição de Inibidores de Protease de Cisteína para Agentes Tripanocidas e Câncer (USP); Simulação de controle de veículo espacial e orientação de órbita (LAC-INPE); Pesquisa sobre plasmas astrofísicos e turbulências espaciais (ITA); Pesquisa em Astrofísica e física molecular (UNIVAP), entre  outros."
       photo: "Guilherme_Friol.png"
   - id: PI2
-    date: "A definir"
+    date: "17/05/2024 - 8:30h"
     name: "Palestra Industrial 2"
     title: "HPE Leadership Supercomputing"
     abstract: "Vamos explorar a liderança mundial da HPE em Computação de Alto Desempenho e Inteligência Artificial reforçando o posicionamento do Supercomputador FRONTIER HPE CRAY EX como no.1 da Lista do Top500 (https://www.top500.org/) e demais casos de sucesso para os Supercomputadores HPE CRAY EX. Vamos apresentar o Portifólio de HPC/AI CRAY XD com suas arquiteturas diversas de infraestrutura de rede de alta performance, CPUs e Aceleradores, bem como as opções de refrigeração de acordo com cada ambiente."
@@ -44,3 +44,30 @@ keynotes:
       name: "Mônica Costa"
       bio: "é bacharel em Engenharia Eletrônica, com Pós-graduação em Estratégia e Gestão Empresarial e Pós-graduação em Transformação Digital pela PUC-Rio, possui mais de 30 anos de experiência em Computação de Alto Desempenho, iniciando sua carreira na Control Data Corporation (CDC) como Engenheira de Suporte de mainframes CDC. Na década de 1990 a Silicon Graphics International (SGI) se estabeleceu no Brasil e incorporou as atividades da CDC, que já utilizava workstations SGI como console dos mainframes, e desde então Mônica Costa passou a integrar o time de Engenheiros de Suporte/Vendas da SGI, por onde permaneceu por 25 anos. Com a incorporação da SGI pela Hewlett Packard Enterprise (HPE) em 2017 assumiu a posição de Especialista em Computação de Alto Desempenho e Inteligência Artificial, sendo responsável por HPC/AI no Brasil e América Latina."
       photo: "monica_costa.jpg"
+  - id: PI3
+    date: "17/05/2024 - 9:00h"
+    name: "Palestra Industrial 3"
+    title: "SDC"
+    abstract: "TBD"
+    speaker:
+      name: "TBD"
+      bio: "TBD"
+      photo: 
+  - id: PI4
+    date: "17/05/2024 - 16:30h"
+    name: "Palestra Industrial 4 - Dell/NVidia"
+    title: "Plataformas Dell NVIDIA de desenvolvimento para HPC e IA"
+    abstract: "TBD"
+    speaker:
+      name: "TBD"
+      bio: "TBD"
+      photo: 
+  - id: PI5
+    date: "17/05/2024 - 17:30h"
+    name: "Palestra Industrial 5 - "
+    title: "MGdata"
+    abstract: "TBD"
+    speaker:
+      name: "TBD"
+      bio: "TBD"
+      photo: 

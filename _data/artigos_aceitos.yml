@@ -20,38 +20,38 @@ ic-track:
         pdf: 
         authors:
           - name: "Guilherme Arcencio"
-            institution: "UFSCar - São Carlos"
+            institution: "UFSCar"
           - name: "Helio Guardia"
-            institution: "UFSCar - São Carlos"
+            institution: "UFSCar"
       - title: "Ordenação Paralela com OpenMP e CUDA"
         pdf: 
         authors:
           - name: "Heitor Colichio"
-            institution: "UFSCar - São Carlos"
+            institution: "UFSCar"
           - name: "Helio Guardia"
-            institution: "UFSCar - São Carlos"
+            institution: "UFSCar"
       - title: "Paralelização da Soma de Progressão Harmônica com OpenMP e CUDA"
         pdf: 
         authors:
           - name: "Pedro Coleone"
-            institution: "UFSCar - São Carlos"
+            institution: "UFSCar"
           - name: "Pietro Moralles"
-            institution: "UFSCar - São Carlos"
+            institution: "UFSCar"
           - name: "Carlos Matos"
-            institution: "UFSCar - São Carlos"
+            institution: "UFSCar"
           - name: "Helio Guardia"
-            institution: "UFSCar - São Carlos"
+            institution: "UFSCar"
       - title: "Quebra-Cabeças de Loyd: um estudo de paralelização"
         pdf: 
         authors:
           - name: "Júlia Oliveira"
-            institution: "UFSCar - São Carlos"
+            institution: "UFSCar"
           - name: "Jayme Furuyama"
-            institution: "UFSCar - São Carlos"
+            institution: "UFSCar"
           - name: "João Trevisan"
-            institution: "UFSCar - São Carlos"
+            institution: "UFSCar"
           - name: "Helio Guardia"
-            institution: "UFSCar - São Carlos"
+            institution: "UFSCar"
       - title: "Avaliando o Impacto da Alocação de Memória em Sistemas com Memória Persistente"
         pdf: 
         authors:
@@ -65,24 +65,24 @@ ic-track:
         pdf: 
         authors:
           - name: "Vitor Silva"
-            institution: "UFSCar - São Carlos"
+            institution: "UFSCar"
           - name: "Rodrigo Nunes"
-            institution: "UFSCar - São Carlos"
+            institution: "UFSCar"
           - name: "Helio Guardia"
-            institution: "UFSCar - São Carlos"
+            institution: "UFSCar"
       - title: "Um estudo de implementação paralela da Eliminação de Gauss usando OpenMP e CUDA"
         pdf: 
         authors:
           - name: "Vítor Milanez"
-            institution: "UFSCar - São Carlos"
+            institution: "UFSCar"
           - name: "Ivan Navas"
-            institution: "UFSCar - São Carlos"
+            institution: "UFSCar"
           - name: "João Migliatti"
-            institution: "UFSCar - São Carlos"
+            institution: "UFSCar"
           - name: "Matheus Miata"
-            institution: "UFSCar - São Carlos"
+            institution: "UFSCar"
           - name: "Helio Guardia"
-            institution: "UFSCar - São Carlos"
+            institution: "UFSCar"
       - title: "Análise comparativa da ResNet-50 em FPGA e CPU"
         pdf: 
         authors:
@@ -119,58 +119,58 @@ ic-track:
         pdf: 
         authors:
           - name: "William Martins"
-            institution: "UNESP - SJRP"
+            institution: "UNESP"
           - name: "Aleardo Manacero Jr."
-            institution: "UNESP - SJRP"
+            institution: "UNESP"
           - name: "Renata Spolon Lobato"
-            institution: "UNESP - SJRP"
+            institution: "UNESP"
           - name: "Roberta Spolon"
-            institution: "UNESP - SJRP"
+            institution: "UNESP"
       - title: "Criação de um Dataset para Caracterização de Código de Contratos Inteligentes na Rede Ethereum"
         pdf: 
         authors:
           - name: "João Ricardo Pereira Marques"
-            institution: "UTFPR - Paraná"
+            institution: "UTFPR"
           - name: "João Fabrício Filho"
-            institution: "UTFPR - Paraná"
+            institution: "UTFPR"
           - name: "Rogério Gonçalves"
-            institution: "UTFPR - Paraná"
+            institution: "UTFPR"
       - title: "OpenMP em Direção á Aproximação: Loop Perforation e Multithreading"
         pdf: 
         authors:
           - name: "João Briganti"
-            institution: "UTFPR - Paraná"
+            institution: "UTFPR"
           - name: "Rogério Gonçalves"
-            institution: "UTFPR - Paraná"
+            institution: "UTFPR"
           - name: "João Fabrício Filho"
-            institution: "UTFPR - Paraná"
+            institution: "UTFPR"
       - title: "Análise da melhoria de desempenho do algoritmo A* utilizando OpenMP"
         pdf: 
         authors:
           - name: "Eduardo Silva"
-            institution: "UTFPR - Paraná"
+            institution: "UTFPR"
           - name: "Rogério Gonçalves"
-            institution: "UTFPR - Paraná"
+            institution: "UTFPR"
           - name: "João Fabrício Filho"
-            institution: "UTFPR - Paraná"
+            institution: "UTFPR"
       - title: "Implementações de Processadores MIPS em Simulador Visual"
         pdf: 
         authors:
           - name: "Christofer Daniel Rodrigues Santos"
-            institution: "UTFPR - Paraná"
+            institution: "UTFPR"
           - name: "Rogério Gonçalves"
-            institution: "UTFPR - Paraná"
+            institution: "UTFPR"
           - name: "João Fabrício Filho"
-            institution: "UTFPR - Paraná"
+            institution: "UTFPR"
       - title: "Comparação da variabilidade de tempo de execução em diferentes algoritmos de multiplicação de matrizes"
         pdf: 
         authors:
           - name: "Victor de Oliveira"
-            institution: "UTFPR - Paraná"
+            institution: "UTFPR"
           - name: "Rogério Gonçalves"
-            institution: "UTFPR - Paraná"
+            institution: "UTFPR"
           - name: "João Fabrício Filho"
-            institution: "UTFPR - Paraná"
+            institution: "UTFPR"
       - title: "CausalBioCF: Causalidade e otimização bioinspirada para geração de contrafactuais factíveis em tempo real"
         pdf: 
         authors:
@@ -229,7 +229,7 @@ ic-track:
       - title: "Improving Performance Estimation of Smart City Simulations Using the Actor Model"
         pdf: 
         authors:
-          - name: "Improving Performance Estimation of Smart City Simulations Using the Actor Model"
+          - name: "Francisco Wallison Rocha"
             institution: "USP"
           - name: "Emílio Francesquini"
             institution: "UFABC"
