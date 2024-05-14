@@ -59,12 +59,9 @@ keynotes:
     title: "Plataformas Dell NVIDIA de desenvolvimento para HPC e IA"
     abstract: "Destaque as soluções de infraestrutura para HPC, IA e análise de dados, proporcionando alta velocidade e eficiência para pesquisas avançadas. Apresentamos as arquiteturas e plataformas da Dell e NVIDIA, projetadas para impulsionar inovações e avanços que moldam um futuro promissor. Aproveite a supercomputação para resolver desafios urgentes e significativos, permitindo avanços sem precedentes no ambiente empresarial."
     speaker:
-      name: "Leonardo Delatim"
+      name: "Leonardo Delatim e Fabio Alves"
       bio: "Leonardo Delatim, graduado em Bacharel de Sistemas de Informação e MBA em Gestão de Segurança da Informação, entusiasta de tecnologias OpenSource, atuando em projetos de alta complexidade na Dell por mais de 10 anos, atualmente como especialista para projetos de infraestrutura para Inteligência Artificial e Edge Computing, auxiliando clientes e parceiros na jornada para adoção e transformação das tecnologias."
       photo: "delatim.jpeg"
-      name: "Fabio Alves"
-      bio: "TBD"
-      photo: 
   - id: PI5
     date: "17/05/2024 - 17:30h"
     name: "Palestra Industrial 5"
