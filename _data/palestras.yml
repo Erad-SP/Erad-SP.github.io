@@ -47,27 +47,30 @@ keynotes:
   - id: PI3
     date: "17/05/2024 - 9:00h"
     name: "Palestra Industrial 3"
-    title: "SDC"
-    abstract: "TBD"
+    title: "SDC - Do Render à Inteligência Artificial: Maximizando o Potencial do Hardware com GPUs"
+    abstract: "Nossa palestra vai explorar desde os incríveis mini PCs super potentes equipados com GPUs de última geração até os impressionantes clusters de altíssima performance."
     speaker:
-      name: "TBD"
-      bio: "TBD"
-      photo: 
+      name: "Guilherme Friol"
+      bio: "é especialista em computação com anos de experiência em ambientes computacionais de alta demanda, virtualização e HPC. Atua como consultor em arquitetura e otimização de sistemas de alto desempenho. Desenvolveu projetos relevantes junto a grandes instituições de pesquisa e notórios nomes da computação nacional em machine learning e redes neurais. Entre os projetos estão: Predição de Inibidores de Protease de Cisteína para Agentes Tripanocidas e Câncer (USP); Simulação de controle de veículo espacial e orientação de órbita (LAC-INPE); Pesquisa sobre plasmas astrofísicos e turbulências espaciais (ITA); Pesquisa em Astrofísica e física molecular (UNIVAP), entre  outros."
+      photo: "Guilherme_Friol.png"
   - id: PI4
     date: "17/05/2024 - 16:30h"
-    name: "Palestra Industrial 4 - Dell/NVidia"
+    name: "Palestra Industrial 4"
     title: "Plataformas Dell NVIDIA de desenvolvimento para HPC e IA"
-    abstract: "TBD"
+    abstract: "Destaque as soluções de infraestrutura para HPC, IA e análise de dados, proporcionando alta velocidade e eficiência para pesquisas avançadas. Apresentamos as arquiteturas e plataformas da Dell e NVIDIA, projetadas para impulsionar inovações e avanços que moldam um futuro promissor. Aproveite a supercomputação para resolver desafios urgentes e significativos, permitindo avanços sem precedentes no ambiente empresarial."
     speaker:
-      name: "TBD"
+      name: "Leonardo Delatim"
+      bio: "Leonardo Delatim, graduado em Bacharel de Sistemas de Informação e MBA em Gestão de Segurança da Informação, entusiasta de tecnologias OpenSource, atuando em projetos de alta complexidade na Dell por mais de 10 anos, atualmente como especialista para projetos de infraestrutura para Inteligência Artificial e Edge Computing, auxiliando clientes e parceiros na jornada para adoção e transformação das tecnologias."
+      photo: "delatim.jpeg"
+      name: "Fabio Alves"
       bio: "TBD"
       photo: 
   - id: PI5
     date: "17/05/2024 - 17:30h"
-    name: "Palestra Industrial 5 - "
-    title: "MGdata"
-    abstract: "TBD"
+    name: "Palestra Industrial 5"
+    title: "Cenários e perspectivas de proteção do datacenter moderno com Veeam"
+    abstract: "Nesta palestra, exploraremos os desafios enfrentados pelos datacenters modernos, incluindo ameaças cibernéticas crescentes, a necessidade de manter a disponibilidade contínua dos dados e as complexidades específicas dos ambientes de Computação de Alto Desempenho (HPC). Abordaremos como a Veeam, líder em soluções de backup e recuperação, está equipada para enfrentar esses desafios em cenários tradicionais e de HPC. Discutiremos as funcionalidades avançadas da Veeam que permitem a recuperação rápida de dados e sistemas, minimizando o tempo de inatividade e maximizando a resiliência empresarial, mesmo em ambientes HPC que exigem processamento intenso e gerenciamento de grandes volumes de dados. Finalmente, ofereceremos insights sobre as tendências futuras em proteção de dados e como os administradores de datacenter, especialmente aqueles envolvidos com HPC, podem se preparar para terem maior resiliência."
     speaker:
-      name: "TBD"
-      bio: "TBD"
-      photo: 
+      name: "Thiago dos Santos Nunes"
+      bio: "Thiago dos Santos Nunes é um profissional de destaque na área de tecnologia. Atualmente, ele atua como CTO (Chief Technology Officer) da MGDATA TECNOLOGIA, uma empresa de destaque no setor. Em seu cargo, Thiago é responsável por supervisionar as 5 zonas de presença da computação em nuvem da empresa ao redor do mundo. Ele possui um impressionante currículo, com mais de 50 certificações em diversas áreas da TI, incluindo VMCA, MCSE, VMCE, ITILF, MCSA, ISFS, MCITP, VTSP, MCTS e MCP. Thiago é reconhecido internacionalmente por sua expertise na área de proteção de dados. Ele foi eleito um dos 100 profissionais mais influentes do mundo nesse campo por 3 anos consecutivos pela Veeam. Atualmente, ele trabalha com clientes de grande porte na América Latina, como empresas que integram a prestigiosa lista Fortune 100."
+      photo: "thiago-mgdata.jpeg"
