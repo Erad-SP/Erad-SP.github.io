@@ -256,7 +256,7 @@ ic-track:
         authors:
           - name: "Rodrigo Pereira do Nascimento"
             institution: "Instituto de Pesquisas Tecnológicas"
-          - name: "Sarita Bruschi"
+          - name: "Alfredo Goldman"
             institution: "USP"
       - title: "AWS powered cloud research environment PaaS"
         pdf: 
