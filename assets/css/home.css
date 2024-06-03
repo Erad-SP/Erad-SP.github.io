@@ -47,7 +47,6 @@
 
 .carousel-slide {
   display: flex;
-  overflow: hidden; /* Ensure only one image is visible at a time */
 }
 
 .carousel-slide > div {
