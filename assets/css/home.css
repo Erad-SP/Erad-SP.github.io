@@ -47,7 +47,8 @@
 
 .carousel-slide {
   display: flex;
-  width: 100%; /* Ensure all images are placed side by side */
+  overflow: hidden; /* Ensure only one image is visible at a time */
+  width: 100%;
 }
 
 .carousel-slide > div {
@@ -59,6 +60,7 @@
   max-height: 450px; /* Adjusted max height */
   object-fit: contain;
 }
+
 
 .carousel-prev,
 .carousel-next {
