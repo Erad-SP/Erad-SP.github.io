@@ -47,10 +47,11 @@
 
 .carousel-slide {
   display: flex;
+  width: 100%; /* Ensure all images are placed side by side */
 }
 
 .carousel-slide > div {
-  flex: 0 0 100/99%; /* Each image container occupies the full width of the carousel */
+  flex: 0 0 100%; /* Each image container occupies the full width of the carousel */
 }
 
 .carousel-slide img {
