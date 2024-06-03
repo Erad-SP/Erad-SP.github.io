@@ -47,11 +47,11 @@
 
 .carousel-slide {
   display: flex;
-  overflow: hidden; /* Ensures only one image is visible at a time */
+  overflow: hidden; /* Ensure only one image is visible at a time */
 }
 
 .carousel-slide > div {
-  width: 100%; /* Each image container occupies the full width of the carousel */
+  flex: 0 0 100%; /* Each image container occupies the full width of the carousel */
 }
 
 .carousel-slide img {
