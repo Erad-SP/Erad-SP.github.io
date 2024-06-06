@@ -233,46 +233,47 @@ title: "Home"
 </div>
 
 <script>
-  const carouselSlide = document.querySelector('.carousel-slide');
-  const prevBtn = document.querySelector('.carousel-prev');
-  const nextBtn = document.querySelector('.carousel-next');
-  const images = document.querySelectorAll('.carousel-slide img');
+const carouselSlide = document.querySelector('.carousel-slide');
+const prevBtn = document.querySelector('.carousel-prev');
+const nextBtn = document.querySelector('.carousel-next');
+const images = document.querySelectorAll('.carousel-slide img');
 
-  let counter = 0; // Start from the first image
-  const size = carouselSlide.clientWidth;
+let counter = 0; // Start from the first image
 
-  nextBtn.addEventListener('click', () => {
-    if (counter >= images.length - 1) {
-      counter = 0; // Reset counter to loop back to the first image
-    } else {
-      counter++;
-    }
-    carouselSlide.style.transition = "transform 0.5s ease-in-out";
-    carouselSlide.style.transform = `translateX(${-size * counter}px)`;
-  });
+// Set the width of the carousel slide to be the number of images times 100%
+carouselSlide.style.width = `${images.length * 100}%`;
 
-  prevBtn.addEventListener('click', () => {
-    if (counter <= 0) {
-      counter = images.length - 1; // Reset counter to loop back to the last image
-    } else {
-      counter--;
-    }
-    carouselSlide.style.transition = "transform 0.5s ease-in-out";
-    carouselSlide.style.transform = `translateX(${-size * counter}px)`;
-  });
+// Set the width of each image container to be 100% divided by the number of images
+images.forEach(img => {
+  img.style.width = `${100 / images.length}%`;
+});
 
-  carouselSlide.addEventListener('transitionend', () => {
-    if (images[counter].id === 'lastClone') {
-      carouselSlide.style.transition = 'none';
-      counter = images.length - 2;
-      carouselSlide.style.transform = `translateX(${-size * counter}px)`;
-    }
-    if (images[counter].id === 'firstClone') {
-      carouselSlide.style.transition = 'none';
-      counter = images.length - counter;
-      carouselSlide.style.transform = `translateX(${-size * counter}px)`;
-    }
-  });
+function updateTransform() {
+  const size = carouselSlide.clientWidth / images.length; // Adjust size to be the width of one image
+  carouselSlide.style.transition = "transform 0.5s ease-in-out";
+  carouselSlide.style.transform = `translateX(${-size * counter}px)`;
+}
+
+nextBtn.addEventListener('click', () => {
+  if (counter >= images.length - 1) {
+    counter = 0; // Reset counter to loop back to the first image
+  } else {
+    counter++;
+  }
+  updateTransform();
+});
+
+prevBtn.addEventListener('click', () => {
+  if (counter <= 0) {
+    counter = images.length - 1; // Reset counter to loop back to the last image
+  } else {
+    counter--;
+  }
+  updateTransform();
+});
+
+// Update the transform to ensure the correct image is shown on load
+updateTransform();
 </script>
 
 
