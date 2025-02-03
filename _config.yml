@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ERAD-SP 2024
+title: ERAD-SP 2025
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-    ERAD-SP 2024 - Escola Regional de Alto Desempenho do Estado de São Paulo, ERADSP2024, ERADSP 2024
+    ERAD-SP 2025 - Escola Regional de Alto Desempenho do Estado de São Paulo, ERADSP2024, ERADSP 2025
 
-baseurl: "/eradsp2024" # the subpath of your site, e.g. /blog
+baseurl: "/eradsp2025" # the subpath of your site, e.g. /blog
 url: "https://erad-sp.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
