@@ -1,8 +1,9 @@
 coordenacao-geral:
-    - Alexandro Baldassin (UNESP)
+    - Aleardo Manacero Jr (UNESP)
 
 coordenacao-programa:
-    - Aleardo Manacero Jr (UNESP)
+    - Sarita Mazzini Bruschi (ICMC/USP)
+    - Daniel Cordeiro (EACH/USP)
 
 coordenacao-desafio:
     - Calebe Bianchini (Mackenzie)
@@ -12,54 +13,54 @@ coordenacao-desafio:
 #    - Adenauer Yamin (UCPEL/UFPEL)
 
 coordenacao-local:
-    - Daniel Pedronette
-    - Eduardo Paschoal
-    - Gustavo Manarin
+    - Renata Spolon Lobato
+#    - Eduardo Paschoal
+#    - Gustavo Manarin
 
-artes:
-    - Alisson Pereira
-    - Rafael Kaneko
+#artes:
+#    - Alisson Pereira
+#    - Rafael Kaneko
 
-coffee:
-    - José Russino
+#coffee:
+#    - José Russino
 
-desenvolvimento:
-    - André Bocces
-    - Pedro Cattai
+#desenvolvimento:
+#    - André Bocces
+#    - Pedro Cattai
 
-infraestrutura:
-    - Alisson Pereira
-    - Eduardo Paschoal
-    - Jeferson Dietrich Filho
-    - João Pedro Ragazzo
-    - Júlia Cruz
-    - Rafael Kaneko
-    - Thiago Uliame
+#infraestrutura:
+#    - Alisson Pereira
+#    - Eduardo Paschoal
+#    - Jeferson Dietrich Filho
+#    - João Pedro Ragazzo
+#    - Júlia Cruz
+#    - Rafael Kaneko
+#    - Thiago Uliame
 
-midias-sociais:
-    - Jeferson Dietrich Filho
+#midias-sociais:
+#    - Jeferson Dietrich Filho
 
-musicas:
-    - Thiago Uliame
+#musicas:
+#    - Thiago Uliame
 
-organizacao-local:
-    - André Pupin
-    - Bruno Honório
-    - Edgar de França
-    - Giovana Zambanini
-    - Laura Mendes
-    - Leticia Lunardi
-    - Lucas Spagnol
-    - Otávio Souza
-    - Pamela de Oliveira
-    - Pedro Poli
-    - Yasmin de Alencar
-    - Ygor da Silva
+#organizacao-local:
+#    - André Pupin
+#    - Bruno Honório
+#    - Edgar de França
+#    - Giovana Zambanini
+#    - Laura Mendes
+#    - Leticia Lunardi
+#    - Lucas Spagnol
+#    - Otávio Souza
+#    - Pamela de Oliveira
+#    - Pedro Poli
+#    - Yasmin de Alencar
+#    - Ygor da Silva
 
 comite-cientifico:
     - Bruno Honório	(UNESP)
     - Calebe Bianchini (Mackenzie)
-    - Daniel Cordeiro	(USP)
+#    - Daniel Cordeiro	(USP)
     - Emilio Francesquini	(UFABC)
     - Helio Guardia (UFSCar)
     - Hermes Senger (UFSCar)
@@ -82,4 +83,4 @@ comite-cientifico:
     - Ricardo Santos (UFMS)
     - Rodolfo Azevedo	(UNICAMP)
     - Sandro Rigo	(UNICAMP)
-    - Sarita Bruschi (USP)
+#    - Sarita Bruschi (USP)
