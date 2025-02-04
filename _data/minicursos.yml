@@ -1,5 +1,4 @@
 tutorials:
-<!--
   - id: TUT1
     date: "Dia 16/05/2024, 8:30-10:30h (Auditório - IGCE)"
     name: "Tutorial"
@@ -50,4 +49,3 @@ tutorials:
       - name: "Denise Stringhini"
         bio: "Doutora em Ciência da Computação pela Universidade Federal do Rio Grande do Sul, mestre em Ciência da Computação pela Universidade Federal do Rio Grande do Sul e bacharel em Informática pela Pontifícia Universidade Católica do Rio Grande do Sul. Durante o doutorado realizou período sanduíche na Université Joseph Fourier em Grenoble, França e posteriormente realizou programa de estágio pós-doutoral em 2010 no LIG (Laboratoire d´Informatique de Grenoble, Grenoble, França). É professora adjunta da Universidade Federal de São Paulo (UNIFESP). Tem experiência de mais de 25 anos no ensino de Ciência da Computação, com ênfase em Software Básico e Tecnologia. Foi coordenadora do curso Bacharelado Interdisciplinar em Ciência e Tecnologia do Instituto de Ciência e Tecnologia (ICT) da UNIFESP (2020-2022). Ensina também nos cursos de Ciência da Computação e Engenharia da Computação. Como interesses de pesquisa, atua principalmente na área de Processamento de Alto Desempenho (PAD), tendo como temas de interesse: programação paralela, ferramentas e aplicações para multicores, clusters e GPUs. É integrante do INCT - Internet do Futuro para Cidades Inteligentes com interesse na utilização de sensores para uso na detecção de desastres naturais e desenvolvimento de aplicativos voltados à cidadania. Coordena dois projetos de extensão para desenvolvimento de software em parceria com organizações sem fins lucrativos. É integrante do corpo docente do Mestrado Profissional em Inovação Tecnológica do Instituto de Ciência e Tecnologia da Unifesp." 
         photo: "denise.gif"
--->
