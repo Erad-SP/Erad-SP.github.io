@@ -1,7 +1,7 @@
 keynotes:
   - id: PI1
     date: "28/05/2025 - 11h"
-    name: "Palestra Dell/Nvidia"
+    name: "Palestra Industrial 1"
     title: "Palestra Dell/Nvidia"
     abstract: ""
     speaker:
@@ -10,13 +10,22 @@ keynotes:
       photo: "logo-dell_nvidia-200x200.png"
   - id: PI2
     date: "28/05/2025 - 12h"
-    name: "Palestra LexisNexis"
+    name: "Palestra Industrial 2"
     title: "Palestra LexisNexis"
     abstract: ""
     speaker:
       name: "Mauro Marques"
       bio: ""
       photo: "logo-lexisnexis.png"
+  - id: PI3
+    date: "29/05/2025 - 11h"
+    name: "Palestra Industrial 3"
+    title: "Palestra HPE"
+    abstract: ""
+    speaker:
+      name: ""
+      bio: ""
+      photo: ""
   - id: P1
     date: "28/05/2025 - 16:30h"
     name: "Palestra Convidada 1"
@@ -26,15 +35,6 @@ keynotes:
       name: "Alexandre Suman de Araújo"
       bio: "Possui graduação em Bacharelado em Fisica Computacional (1999), Mestrado em Física (2002), Doutorado em Física (2006) e pós-doutorado na área de Biofísica Computacional (2006-2008) pelo IFSC-USP e pós-doutorado em Física Biológica (2008-2010) pela FCFRP-USP. Atualmente é Professor Assistente Doutor do Departamento de Física do IBILCE-UNESP em São José do Rio Preto. Tem experiência na área de Física Computacional e Biofísica Molecular Computacional, atuando principalmente nos seguintes temas: Física Computacional; Dinâmica Molecular; Simulações de Íons em solução aquosa, sistemas de interesse ambiental, sistemas proteicos do tipo ligante-receptor e folding de proteínas; Cristalografia de pequenas moléculas."
       photo: "AlexandreSumandeAraújo.jpg"
-  - id: PI3
-    date: "29/05/2025 - 11h"
-    name: "Palestra HPE"
-    title: "Palestra HPE"
-    abstract: ""
-    speaker:
-      name: ""
-      bio: ""
-      photo: ""
   - id: P2
     date: "29/05/2025 - 12h"
     name: "Palestra Convidada 2"

@@ -1,14 +1,14 @@
 tutorials:
-#  - id: MC1
-#    date: ""
-#    name: ""
-#    title: ""
-#    pdf: ""
-#    abstract: "" 
-#    authors:
-#      - name: ""
-#        bio: "" 
-#        photo: ""
+  - id: MC1
+    date: "8:30h"
+    name: "Minicurso 1"
+    title: "Minicurso Julio"
+    pdf: ""
+    abstract: "" 
+    authors:
+      - name: "Julio"
+        bio: "" 
+        photo: ""
   - id: MC2
     date: "Dia 29/05/25, 8:30-10:30h"
     name: "Minicurso II"
