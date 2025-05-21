@@ -24,7 +24,7 @@ tutorials:
     name: "Minicurso III"
     title: "Minicurso LexisNexis"
     pdf: ""
-    abstract: "O minicurso abordará as principais técnicas para melhorar o desempenho de um código, focando nas linguagens C e Python, além da apresentação de ferramentas utilizadas com esse objetivo. O minicurso será de 2 horas, com uma parte teórica e uma parte prática."
+    abstract: ""
     authors:
       - name: "Mauro Marques"
         bio: "" 
