@@ -1,51 +1,31 @@
 tutorials:
-  - id: TUT1
-    date: "Dia 16/05/2024, 8:30-10:30h (Auditório - IGCE)"
-    name: "Tutorial"
-    title: "Armazenamento: Melhores Práticas – Entendendo do básico ao avançado"
-    pdf: ""
-    abstract: "Resumo: O minicurso de armazenamento abordará as principais formas de conexões existentes, tais como SATA, SCSI, SAS, iSCSI, Fibre Channel, entre outras. Os participantes poderão compreender as vantagens e desvantagens de cada uma dessas opções, bem como entender a importância da escolha correta na hora de definir a solução de armazenamento adequada para cada situação, desde o seu notebook até um sistema de storage distribuido. Serão discutidos os diversos tipos de dispositivos de armazenamento existentes no mercado, tais como unidades de disco rígido (HDD), unidades de estado sólido (SSD), unidades de fita (tape drive), cartões de memória, entre outros. O treinamento disponibilizado será interativo, com vários equipamentos para serem vistos durante o minicurso."
-    authors:
-      - name: "Guilherme Friol"
-        bio: "Guilherme Friol é especialista em computação com anos de experiência em ambientes computacionais de alta demanda, virtualização e HPC. Atua como consultor em arquitetura e otimização de sistemas de alto desempenho. Desenvolveu projetos relevantes junto a grandes instituições de pesquisa e notórios nomes da computação nacional em machine learning e redes neurais. Entre os projetos estão: Predição de Inibidores de Protease de Cisteína para Agentes Tripanocidas e Câncer (USP); Simulação de controle de veículo espacial e orientação de órbita (LAC-INPE); Pesquisa sobre plasmas astrofísicos e turbulências espaciais (ITA); Pesquisa em Astrofísica e física molecular (UNIVAP), entre outros." 
-        photo: "Guilherme_Friol.png"
-  - id: MC1
-    date: "Dia 16/05/2024, 14-16h (Lab 1 - DEMAC)"
-    name: "Minicurso I"
-    title: "Utilização de assistente de IA no desenvolvimento de código paralelo"
-    pdf: ""
-    abstract: "Neste minicurso, exploraremos a integração de assistentes de Inteligência Artificial (IA) no desenvolvimento de código paralelo. Abordaremos como ferramentas de IA podem acelerar e facilitar o processo de escrita e otimização de código para computação paralela. Os participantes aprenderão sobre técnicas e ferramentas modernas que combinam IA e desenvolvimento de software para criar soluções eficientes e escaláveis em ambientes de computação paralela." 
-    authors:
-      - name: "Rodolfo Azevedo"
-        bio: "Possui graduação em Engenharia de Computação pela Universidade Federal do Espírito Santo (1998), doutorado em Ciência da Computação pela Universidade Estadual de Campinas (2002) e pós-doutorado na Universidade de Washington - EUA (2010). Bolsista de Produtividade em Pesquisa do CNPq nível 2. Professor titular da Universidade Estadual de Campinas - UNICAMP, orientando alunos do mestrado e doutorado em Ciência da Computação nas áreas de Arquitetura de Computadores, Sistemas Dedicados, Projeto de Hardware e Uso de Tecnologia na Educação. Foi coordenador do Programa de Pós-graduação em Ciência da Computação do Instituto de Computação de 2007-2009. Foi membro do Conselho Universitário da Unicamp entre 2013 e 2017. Foi coordenador adjunto para o mestrado profissional da área de Ciência da Computação da CAPES entre 2011-2013. Publicou diversos artigos em conferências e periódicos, tendo recebido prêmios de melhor artigo em conferências (SBAC-PAD 2004, SBAC-PAD 2008, WSCAD-SSC 2012, SBAC-PAD 2018, WSCAD-SSC 2021, EduCompBR 2022). Recebeu o Prêmio de Reconhecimento Docente pela Dedicação ao Ensino de Graduação e o Prêmio de Reconhecimento Acadêmico Zeferino Vaz em 2012. Membro do Conselho Técnico Científico do Instituto Eldorado (2021-). Foi diretor do Instituto de Computação da Unicamp entre 2017 e 2019. Membro do Conselho da Sociedade Brasileira de Computação (2015-2019). Presidente da Universidade Virtual do Estado de São Paulo - UNIVESP (2019-2023)." 
-        photo: "rodolfo.jpeg"
+#  - id: MC1
+#    date: ""
+#    name: ""
+#    title: ""
+#    pdf: ""
+#    abstract: "" 
+#    authors:
+#      - name: ""
+#        bio: "" 
+#        photo: ""
   - id: MC2
-    date: "Dia 16/05/2024, 14-16h (Lab 3 - DEMAC)"
+    date: "Dia 29/05/25, 8:30-10:30h"
     name: "Minicurso II"
-    title: "Descascando o pinguim!"
+    title: "Programação Funcional, Concorrente e Paralela"
     pdf: ""
-    abstract: "O curso Descascando o Pinguim! é um mergulho em como maximizar a performance do Linux em diversos cenários, incluindo virtualização e servidores de alto desempenho. Os alunos descobrirão técnicas de otimização, desde fundamentos até estratégias avançadas, ajustes de sistema e práticas recomendadas para alcançar a máxima eficiência. Abordaremos ferramentas cruciais, configurações do kernel, ajustes de sistema de arquivos, gerenciamento de recursos e como monitorar efetivamente o desempenho. Combinando teoria e prática, incluiremos análise de casos reais. O curso é ideal para quem está começando ou já tem experiência com Linux e busca aprimorar suas habilidades em performance."
+    abstract: ""
     authors:
-      - name: "Thiago dos Santos Nunes"
-        bio: "Thiago dos Santos Nunes é um profissional de destaque na área de tecnologia. Atualmente, ele atua como CTO (Chief Technology Officer) da MGDATA TECNOLOGIA, uma empresa de destaque no setor. Em seu cargo, Thiago é responsável por supervisionar as 5 zonas de presença da computação em nuvem da empresa ao redor do mundo. Ele possui um impressionante currículo, com mais de 50 certificações em diversas áreas da TI, incluindo VMCA, MCSE, VMCE, ITILF, MCSA, ISFS, MCITP, VTSP, MCTS e MCP. Thiago é reconhecido internacionalmente por sua expertise na área de proteção de dados. Ele foi eleito um dos 100 profissionais mais influentes do mundo nesse campo por 3 anos consecutivos pela Veeam. Atualmente, ele trabalha com clientes de grande porte na América Latina, como empresas que integram a prestigiosa lista Fortune 100."
-        photo: "thiago-mgdata.jpeg"
+      - name: "Emílio de Camargo Francesquini"
+        bio: "Bacharel (2003) e mestre (2007) em Ciência da Computação pelo Instituto de Matemática e Estatística (IME) da Universidade de São Paulo (USP). É também doutor em Ciência da Computação pelo IME-USP e pela Universidade de Grenoble Alpes, França (2014). De 2014 até 2017 atuou como pesquisador em regime de pós-doutorado no Instituto de Computação da Universidade Estadual de Campinas (Unicamp). Atualmente é professor adjunto na Universidade Federal do ABC (UFABC). Seus principais interesses de pesquisa incluem sistemas distribuídos; programação concorrente em processadores multi-core e many-core; e uso tecnologias de memória não voláteis."
+        photo: "emilio-francesquini.jpg"
   - id: MC3
-    date: "Dia 17/05/2024, 14-16h (Lab 1 - DEMAC)"
+    date: "Dia 29/05/2025, 14:30-16h (Lab 1 - DEMAC)"
     name: "Minicurso III"
-    title: "Técnicas para otimização de código"
+    title: "Minicurso LexisNexis"
     pdf: ""
     abstract: "O minicurso abordará as principais técnicas para melhorar o desempenho de um código, focando nas linguagens C e Python, além da apresentação de ferramentas utilizadas com esse objetivo. O minicurso será de 2 horas, com uma parte teórica e uma parte prática."
     authors:
-      - name: "Sarita Mazzini Bruschi"
-        bio: "Possui graduação em Bacharelado Em Ciência da Computação pela Universidade Estadual Paulista Júlio de Mesquita Filho (1994), mestrado em Ciência da Computação São Carlos pela Universidade de São Paulo (1997), doutorado em Ciência da Computação São Carlos pela Universidade de São Paulo (2002) e pós-doutorado em Computação pela George Washington University (2016). Atualmente é professora doutora MS3 (nível 2) RDIDP da Universidade de São Paulo e Presidente da Comissão de Graduação do ICMC. Tem experiência na área de Ciência da Computação, com ênfase em Avaliação de Desempenho, atuando principalmente nos seguintes temas: Avaliação de Desempenho, Simulação, Arquitetura de Computadores (arquiteturas ARM e RISC-V), Escalonamento de Processos em Cloud Computing, e Processo de Ensino-Aprendizagem no Ensino Superior em Computação." 
-        photo: "sarita.gif"
-  - id: MC4
-    date: "Dia 17/05/2024, 14-16h (Lab 2 - DEMAC)"
-    name: "Minicurso IV"
-    title: "Introdução à Programação CUDA"
-    pdf: ""
-    abstract: "na atualidade da área de processamento de alto desempenho, a utilização de co-processadores gráficos, conhecidos como gpus, tornou-se essencial para impulsionar o desempenho de aplicações que demandam alto poder de processamento. as gpus da nvidia adotam a arquitetura cuda como seu principal modelo de programação. este modelo possui características particulares relacionadas ao tipo de hardware, as quais podem ser exploradas para otimizar ainda mais o desempenho de uma aplicação. este minicurso abordará os principais conceitos de cuda e seu modelo de programação, bem como as especificidades do hardware das gpus, especialmente aquelas relacionadas à performance e otimização. os tópicos abordados ao longo do curso serão exemplificados através de códigos e testes realizados com o cuda sdk."
-    authors:
-      - name: "Denise Stringhini"
-        bio: "Doutora em Ciência da Computação pela Universidade Federal do Rio Grande do Sul, mestre em Ciência da Computação pela Universidade Federal do Rio Grande do Sul e bacharel em Informática pela Pontifícia Universidade Católica do Rio Grande do Sul. Durante o doutorado realizou período sanduíche na Université Joseph Fourier em Grenoble, França e posteriormente realizou programa de estágio pós-doutoral em 2010 no LIG (Laboratoire d´Informatique de Grenoble, Grenoble, França). É professora adjunta da Universidade Federal de São Paulo (UNIFESP). Tem experiência de mais de 25 anos no ensino de Ciência da Computação, com ênfase em Software Básico e Tecnologia. Foi coordenadora do curso Bacharelado Interdisciplinar em Ciência e Tecnologia do Instituto de Ciência e Tecnologia (ICT) da UNIFESP (2020-2022). Ensina também nos cursos de Ciência da Computação e Engenharia da Computação. Como interesses de pesquisa, atua principalmente na área de Processamento de Alto Desempenho (PAD), tendo como temas de interesse: programação paralela, ferramentas e aplicações para multicores, clusters e GPUs. É integrante do INCT - Internet do Futuro para Cidades Inteligentes com interesse na utilização de sensores para uso na detecção de desastres naturais e desenvolvimento de aplicativos voltados à cidadania. Coordena dois projetos de extensão para desenvolvimento de software em parceria com organizações sem fins lucrativos. É integrante do corpo docente do Mestrado Profissional em Inovação Tecnológica do Instituto de Ciência e Tecnologia da Unifesp." 
-        photo: "denise.gif"
+      - name: "Mauro Marques"
+        bio: "" 
+        photo: ""
