@@ -11,12 +11,13 @@ keynotes:
   - id: PI2
     date: "28/05/2025 - 12h"
     name: "Palestra Industrial 2"
-    title: "Palestra LexisNexis"
-    abstract: ""
+    title: "Introdução ao Aprendizado de Máquina através de algoritmos com interface Myriad na plataforma HPCC Systems."
+    abstract: "A plataforma HPCC Systems de código aberto utiliza arquitetura de dados distribuída e uma metodologia de processamento paralelo para trabalhar com grandes conjuntos de dados. O 'pipeline' de dados na plataforma acompanha os dados desde a origem até a sua ingestão no cluster Thor, onde eles são refinados através de limpeza e padronização dos dados e, em seguida, enriquecidos, para depois, serem disponibilizados para aplicações de consulta em tempo real hospedadas no cluster Roxie. Em conjunto com essas duas arquiteturas de clusters e, compondo o chamado Power Trio, se faz presente a linguagem ECL, sendo a única linguagem necessária para expressar algoritmos de dados em toda a plataforma HPCC Systems. No cluster Thor, a linguagem ECL expressa “workflows” de dados que consistem em carregamento dados, transformação, vinculação, indexação etc. No cluster Roxie, a linguagem ECL define serviços de consultas de dados. A linguagem ECL é implicitamente paralela, portanto, o mesmo código ECL desenvolvido para ser executado em um cluster de nó único pode ser executado com a mesma facilidade em um cluster com centenas de nós. O programador não precisa se preocupar em implementar a paralelização, e a linguagem ECL possui uma função otimizadora que garante o melhor desempenho para uma arquitetura específica. Integrado à linguagem ECL encontram-se disponíveis diversas bibliotecas de Machine Learning aplicáveis às várias categorias de aprendizado de máquina, onde cada algoritmo tem suas próprias peculiaridades, as quais devem ser levadas em consideração para maximizar a precisão preditiva, tendo em conta que todos os 'bundles' operam de maneira muito semelhante, com algumas variações menores. Por esses motivos, é muito importante que não seja utilizada a exploração de Machine Learning para produzir produtos ou reivindicar habilidades sem antes consultar a documentação que acompanha cada 'bundle', a fim de usá-lo de forma efetiva. Finalmente, objetivando demonstrar a aplicação de algoritmos de Aprendizado de Máquina com interface Myriad na plataforma HPCC Systems, será apresentado um estudo de caso durante a realização do “Minicurso” dentro da programação do ERAD-SP 2025."
+    pdf: "ERAD-SP 2025 - LexisNexis - Palestra - Proposta.docx"
     speaker:
-      name: "Mauro Marques"
-      bio: ""
-      photo: "logo-lexisnexis.png"
+      name: "Mauro Donato Marques"
+      bio: "Engenheiro de Software da área de Treinamento da LexisNexis Risk Solutions. Sua principal atuação está relacionada ao desenvolvimento de programas de treinamento no Brasil, contemplando o suporte e mentoria à comunidade acadêmica, no que tange à Projetos de Pesquisa, cursos de extensão extracurriculares, coorientação em disciplinas de Iniciação Científica, mentoria durante a elaboração de TCCs, dissertações de mestrado e teses de doutorado e, também, coautoria em artigos científicos, possibilitando que pesquisadores e estudantes utilizem a plataforma HPCC Systems, com capacidade computacional de alto desempenho, no desenvolvimento das suas atribuições acadêmicas."
+      photo: "MauroDMarques.jpg"
   - id: PI3
     date: "29/05/2025 - 11h"
     name: "Palestra Industrial 3"
