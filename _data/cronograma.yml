@@ -48,7 +48,7 @@ schedule:
         type: "general"
         start_time: "12:30"
         end_time: "14:00"
-        title: "Desafio de Programação Paralela"
+      - title: "Desafio de Programação Paralela"
         link: "desafio.html"
         type: "general"
         start_time: "14:00"
@@ -148,7 +148,7 @@ schedule:
         room: "Auditório A - IBILCE"
         speakers:
           - name: "Danilo Carastan-Santos"
-            institution: "INRIA
+            institution: "INRIA"
       - title: "Almoço"
         type: "general"
         start_time: "12:30"
