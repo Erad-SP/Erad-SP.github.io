@@ -53,7 +53,7 @@ schedule:
         type: "general"
         start_time: "14:00"
         end_time: "14:30"
-      - title: "Sessão Técnica 1 - Trabalhos de Iniciação Científica"
+      - title: "Sessão Técnica I - Trabalhos de Iniciação Científica"
         link: "artigos_aceitos.html#Sessao1"
         type: "ictrack"
         start_time: "14:30"
@@ -168,7 +168,7 @@ schedule:
         start_time: "16:00"
         end_time: "16:30"
         room: ""
-      - title: "Sessão Técnica 2 - Trabalhos de Pós Graduação"
+      - title: "Sessão Técnica II - Trabalhos de Pós Graduação"
         link: "artigos_aceitos.html#Sessao2"
         type: "ictrack"
         start_time: "16:30"
@@ -201,9 +201,9 @@ schedule:
   - 
     id: day-three
     event-day: "3º dia"
-    calendar-day: "18 de maio de 2023"
+    calendar-day: "30 de maio de 2025"
     events:
-      - title: "Sessão Técnica 3"
+      - title: "Sessão Técnica III - Trabalhos de Iniciação Científica"
         link: "artigos_aceitos.html#Sessao3"
         type: "ictrack"
         start_time: "8:20"
