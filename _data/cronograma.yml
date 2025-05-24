@@ -17,8 +17,8 @@ schedule:
         end_time: "10:30"
         room: "Laboratório"
         speakers:
-          name: "Júlio Cezar Estrella"
-          institution: ""
+          - name: "Júlio Cezar Estrella"
+            institution: ""
       - title: "Coffee-break"
         type: "general"
         start_time: "10:30"
@@ -32,8 +32,8 @@ schedule:
         end_time: "12:00"
         room: "Auditório A - IBILCE"
         speakers:
-          name: ""
-          institution: "Dell/Nvidia"
+          - name: ""
+            institution: "Dell/Nvidia"
       - title: "Introdução ao Aprendizado de Máquina através de algoritmos com interface Myriad na plataforma HPCC Systems"
         description: "A plataforma HPCC Systems de código aberto utiliza arquitetura de dados distribuída e uma metodologia de processamento paralelo para trabalhar com grandes conjuntos de dados. O 'pipeline' de dados na plataforma acompanha os dados desde a origem até a sua ingestão no cluster Thor, onde eles são refinados através de limpeza e padronização dos dados e, em seguida, enriquecidos, para depois, serem disponibilizados para aplicações de consulta em tempo real hospedadas no cluster Roxie. Em conjunto com essas duas arquiteturas de clusters e, compondo o chamado Power Trio, se faz presente a linguagem ECL, sendo a única linguagem necessária para expressar algoritmos de dados em toda a plataforma HPCC Systems. No cluster Thor, a linguagem ECL expressa “workflows” de dados que consistem em carregamento dados, transformação, vinculação, indexação etc. No cluster Roxie, a linguagem ECL define serviços de consultas de dados. A linguagem ECL é implicitamente paralela, portanto, o mesmo código ECL desenvolvido para ser executado em um cluster de nó único pode ser executado com a mesma facilidade em um cluster com centenas de nós. O programador não precisa se preocupar em implementar a paralelização, e a linguagem ECL possui uma função otimizadora que garante o melhor desempenho para uma arquitetura específica. Integrado à linguagem ECL encontram-se disponíveis diversas bibliotecas de Machine Learning aplicáveis às várias categorias de aprendizado de máquina, onde cada algoritmo tem suas próprias peculiaridades, as quais devem ser levadas em consideração para maximizar a precisão preditiva, tendo em conta que todos os 'bundles' operam de maneira muito semelhante, com algumas variações menores. Por esses motivos, é muito importante que não seja utilizada a exploração de Machine Learning para produzir produtos ou reivindicar habilidades sem antes consultar a documentação que acompanha cada 'bundle', a fim de usá-lo de forma efetiva. Finalmente, objetivando demonstrar a aplicação de algoritmos de Aprendizado de Máquina com interface Myriad na plataforma HPCC Systems, será apresentado um estudo de caso durante a realização do “Minicurso” dentro da programação do ERAD-SP 2025."
         link: "palestras.html#PI2"
@@ -42,8 +42,8 @@ schedule:
         end_time: "12:30"
         room: "Auditório A - IBILCE"
         speakers:
-          name: "Mauro Donato Marques"
-          institution: "LenixNexis"
+          - name: "Mauro Donato Marques"
+            institution: "LenixNexis"
       - title: "Almoço"
         type: "general"
         start_time: "12:30"
@@ -91,8 +91,8 @@ schedule:
         end_time: "17:30"
         room: "Auditório A - IBILCE"
         speakers:
-          name: "Alexandre Suman de Araújo"
-          institution: "UNESP
+          - name: "Alexandre Suman de Araújo"
+            institution: "UNESP"
       - title: "Cerimônia de Abertura"
         type: "general"
         start_time: "17:30"
@@ -126,8 +126,8 @@ schedule:
         end_time: "10:00"
         room: ""
         speakers:
-          name: "Emílio de Camargo Francesquini"
-          institution: ""
+          - name: "Emílio de Camargo Francesquini"
+            institution: ""
       - title: "Coffee-break"      
         type: "general"
         start_time: "10:30"
@@ -147,8 +147,8 @@ schedule:
         end_time: "12:30"
         room: "Auditório A - IBILCE"
         speakers:
-          name: "Danilo Carastan-Santos"
-          institution: "INRIA"
+          - name: "Danilo Carastan-Santos"
+            institution: "INRIA"
       - title: "Almoço"
         type: "general"
         start_time: "12:30"
@@ -161,8 +161,8 @@ schedule:
         end_time: "16:00"
         room: ""
         speakers:
-          name: "Mauro Marques"
-          institution: "LexisNexis"
+          - name: "Mauro Marques"
+            institution: "LexisNexis"
       - title: "Coffee-break"
         type: "general"
         start_time: "16:00"
@@ -239,8 +239,8 @@ schedule:
         end_time: "12:00"
         room: "Auditório A - IBILCE"
         speakers:
-          name: "Regina Melo Silveira"
-          institution: "USP"
+          - name: "Regina Melo Silveira"
+            institution: "USP"
       - title: "Cerimônia de Encerramento e Premiação"
         type: "general"
         start_time: "12:00"
