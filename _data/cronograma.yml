@@ -69,7 +69,7 @@ schedule:
             authors: "Sebastião Neto (UFSCar) e Helio Guardia (UFSCar)"
           - title: "Verificação da paralelização da soma harmônica com OpenMP e CUDA"
             authors: "Eugênio Nishimiya (UFSCar), Nataly Cristina (UFSCar) e Helio Guardia (UFSCar)"
-          - title: "Impacto do uso de Pthreads, Blocking, OpenMP e SIMD no Desempenho de Multiplicação de Matrizes"
+          - title: "Desempenho da Multiplicação de Matrizes em Sistemas Multicore com Pthreads, OpenMP, Blocking, SIMD e BLAS"
             authors: " Hiago Vieira (UTFPR), Rogério Aparecido Gonçalves (UTFPR), João Fabrício Filho (UTFPR)"
           - title: "Emulação de Large Language Models para RISC-V usando QEMU"
           - authors: "Giovani Bianchini (UNICAMP) e Lucas Wanner (UNICAMP)"
