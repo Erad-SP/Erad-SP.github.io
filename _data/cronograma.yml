@@ -23,7 +23,7 @@ schedule:
         type: "general"
         start_time: "10:30"
         end_time: "11:00"
-        room: "Saguão do Prédio de Administração do IGCE"
+        room: ""
       - title: "Palestra Dell/Nvidia"
         description: ""
         link: "palestras.html#PI1"
