@@ -221,7 +221,7 @@ schedule:
         end_time: "10:30"
         room: "Auditório A - IBILCE"
         papers:
-            - title: "Análise Comparativa de Síntese de Alto Nível para Algoritmos de Multiplicação de Matrizes em FPGA"
+          - title: "Análise Comparativa de Síntese de Alto Nível para Algoritmos de Multiplicação de Matrizes em FPGA"
             authors: "Henrique Gregory Gimenez(USP) e  Edson Midorikawa (USP)"
           - title: "Explorando Paralelismo no Problema da Subsequência de Soma Máxima"
             authors: "Murilo Silva (UFSCar) e Helio Guadia (UFSCar)"
