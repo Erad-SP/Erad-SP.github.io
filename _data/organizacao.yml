@@ -1,19 +1,21 @@
 coordenacao-geral:
-    - Aleardo Manacero Jr (UNESP)
+    - Daniel Cordeiro (USP)
+    - Renan Alves (USP)
+#    - Aleardo Manacero Jr (UNESP)
 
 coordenacao-programa:
-    - Sarita Mazzini Bruschi (ICMC/USP)
-    - Daniel Cordeiro (EACH/USP)
+    - Sandro Rigo (UNICAMP)
+    - Isaías Felzmann (UNICAMP)
 
-coordenacao-desafio:
-    - Calebe Bianchini (Mackenzie)
+#coordenacao-desafio:
+#    - Calebe Bianchini (Mackenzie)
 
 #coordenacao-painel:
 #    - César De Rose (PUCRS)
 #    - Adenauer Yamin (UCPEL/UFPEL)
 
-coordenacao-local:
-    - Renata Spolon Lobato (UNESP)
+#coordenacao-local:
+#    - Renata Spolon Lobato (UNESP)
 #    - Eduardo Paschoal
 #    - Gustavo Manarin
 
@@ -58,29 +60,30 @@ coordenacao-local:
 #    - Ygor da Silva
 
 comite-cientifico:
-    - Bruno Honório	(UNESP)
-    - Calebe Bianchini (Mackenzie)
+    - A ser anunciado
+    # - Bruno Honório	(UNESP)
+    # - Calebe Bianchini (Mackenzie)
 #    - Daniel Cordeiro	(USP)
-    - Emilio Francesquini	(UFABC)
-    - Helio Guardia (UFSCar)
-    - Hermes Senger (UFSCar)
-    - Herve Yviquel	(UNICAMP)
-    - Jairo Panetta	(ITA)
-    - Laércio Lima Pilla (LaBRI - CNRS)
-    - Liria Sato (USP)
-    - Lucas Mello Schnorr (UFRGS)
-    - Lucas Wanner (UNICAMP)
-    - Luciana Arantes (Sorbonne Université)
-    - Luiz Bovolenta (UNESP)
-    - Luiz F. Bittencourt	(UNICAMP)
-    - Marco Netto (Microsoft)
-    - Márcio Castro (UFSC)
-    - Paulo Lopes de Souza (USP)
-    - Philippe O. A. Navaux	(UFRGS)
-    - Raphael Camargo	(UFABC)
-    - Renato Ishii (UFMS)
-    - Ricardo Menotti	(UFSCar)
-    - Ricardo Santos (UFMS)
-    - Rodolfo Azevedo	(UNICAMP)
-    - Sandro Rigo	(UNICAMP)
+    # - Emilio Francesquini	(UFABC)
+    # - Helio Guardia (UFSCar)
+    # - Hermes Senger (UFSCar)
+    # - Herve Yviquel	(UNICAMP)
+    # - Jairo Panetta	(ITA)
+    # - Laércio Lima Pilla (LaBRI - CNRS)
+    # - Liria Sato (USP)
+    # - Lucas Mello Schnorr (UFRGS)
+    # - Lucas Wanner (UNICAMP)
+    # - Luciana Arantes (Sorbonne Université)
+    # - Luiz Bovolenta (UNESP)
+    # - Luiz F. Bittencourt	(UNICAMP)
+    # - Marco Netto (Microsoft)
+    # - Márcio Castro (UFSC)
+    # - Paulo Lopes de Souza (USP)
+    # - Philippe O. A. Navaux	(UFRGS)
+    # - Raphael Camargo	(UFABC)
+    # - Renato Ishii (UFMS)
+    # - Ricardo Menotti	(UFSCar)
+    # - Ricardo Santos (UFMS)
+    # - Rodolfo Azevedo	(UNICAMP)
+    # - Sandro Rigo	(UNICAMP)
 #    - Sarita Bruschi (USP)
