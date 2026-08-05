@@ -35,16 +35,23 @@ keynotes:
     speaker:
       name: "Prof. Pedro Leite da Silva Dias (IAG/USP)"
       # bio: ""
-      # photo: ".jpg"
+      photo: "user.png"
   - id: P2
     date: "03/09/2026 - 14h"
     name: "Palestra Convidada 2"
     title: 
-    abstract: ""
+    abstract: |
+      A palestra apresentará como a computação de alto desempenho é utilizada no Laboratório de Astrofísica Teórica da EACH-USP para investigar problemas em astrofísica de plasmas. Inicialmente, será descrita a infraestrutura do cluster Hydra e o fluxo de trabalho adotado desde a formulação dos modelos físicos até a execução, análise e visualização dos resultados.
+
+      Serão discutidas aplicações envolvendo simulações magnetohidrodinâmicas em três dimensões, estudos de estabilidade de sistemas linearizados, como a instabilidade de tearing, e análise e visualização de grandes volumes de dados científicos. Particular atenção será dada às estratégias de paralelização híbrida com MPI e OpenMP utilizadas nos códigos tridimensionais, incluindo decomposição de domínio, execução em memória compartilhada e comunicação entre nós.
+
+      Pretendo também apresentar alguns resultados de desempenho e escalabilidade obtidos no cluster Hydra, caso consiga concluir os testes a tempo, comparando diferentes configurações de processos MPI e threads OpenMP. Serão discutidos os principais gargalos observados, especialmente os efeitos da comunicação entre os nós por meio da rede de 10 Gb/s e sua influência na eficiência paralela das simulações.
+
+      Por fim, serão abordadas perspectivas para a evolução da infraestrutura e dos códigos científicos, incluindo o uso de GPUs e outros aceleradores, os desafios de adaptação dos algoritmos a arquiteturas heterogêneas e as possíveis aplicações de modelos de linguagem no desenvolvimento, documentação, teste e modernização de códigos de pesquisa.
     speaker:
       name: "Prof. Grzegorz Kowal (EACH/USP)"
       bio: "Grzegorz Kowal é professor associado da EACH-USP e pesquisador do Laboratório de Astrofísica Teórica. Doutor em Astronomia pela Universidade Jaguelônica, na Polônia, atua nas áreas de astrofísica computacional, turbulência magnetohidrodinâmica, reconexão magnética, instabilidades em plasmas e aceleração de partículas. Desenvolve e utiliza métodos numéricos, códigos paralelos e infraestruturas de computação de alto desempenho para simulações de plasmas astrofísicos em duas e três dimensões."
-      # photo: "Danilo-Carastan-Santos.jpg"
+      photo: "grzegorz.png"
   # - id: P3
   #   date: "30/05/2025 - 11h"
   #   name: "Palestra Convidada 3"
