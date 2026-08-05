@@ -1,56 +1,56 @@
-# keynotes:
-#   - id: PI1
-#     date: "28/05/2025 - 11h"
-#     name: "Palestra Industrial 1"
-#     title: "Palestra Dell/Nvidia"
-#     abstract: ""
-#     speaker:
-#       name: ""
-#       bio: ""
-#       photo: "logo-dell_nvidia-200x200.png"
-#   - id: PI2
-#     date: "28/05/2025 - 12h"
-#     name: "Palestra Industrial 2"
-#     title: "Introdução ao Aprendizado de Máquina através de algoritmos com interface Myriad na plataforma HPCC Systems."
-#     abstract: "A plataforma HPCC Systems de código aberto utiliza arquitetura de dados distribuída e uma metodologia de processamento paralelo para trabalhar com grandes conjuntos de dados. O 'pipeline' de dados na plataforma acompanha os dados desde a origem até a sua ingestão no cluster Thor, onde eles são refinados através de limpeza e padronização dos dados e, em seguida, enriquecidos, para depois, serem disponibilizados para aplicações de consulta em tempo real hospedadas no cluster Roxie. Em conjunto com essas duas arquiteturas de clusters e, compondo o chamado Power Trio, se faz presente a linguagem ECL, sendo a única linguagem necessária para expressar algoritmos de dados em toda a plataforma HPCC Systems. No cluster Thor, a linguagem ECL expressa “workflows” de dados que consistem em carregamento dados, transformação, vinculação, indexação etc. No cluster Roxie, a linguagem ECL define serviços de consultas de dados. A linguagem ECL é implicitamente paralela, portanto, o mesmo código ECL desenvolvido para ser executado em um cluster de nó único pode ser executado com a mesma facilidade em um cluster com centenas de nós. O programador não precisa se preocupar em implementar a paralelização, e a linguagem ECL possui uma função otimizadora que garante o melhor desempenho para uma arquitetura específica. Integrado à linguagem ECL encontram-se disponíveis diversas bibliotecas de Machine Learning aplicáveis às várias categorias de aprendizado de máquina, onde cada algoritmo tem suas próprias peculiaridades, as quais devem ser levadas em consideração para maximizar a precisão preditiva, tendo em conta que todos os 'bundles' operam de maneira muito semelhante, com algumas variações menores. Por esses motivos, é muito importante que não seja utilizada a exploração de Machine Learning para produzir produtos ou reivindicar habilidades sem antes consultar a documentação que acompanha cada 'bundle', a fim de usá-lo de forma efetiva. Finalmente, objetivando demonstrar a aplicação de algoritmos de Aprendizado de Máquina com interface Myriad na plataforma HPCC Systems, será apresentado um estudo de caso durante a realização do “Minicurso” dentro da programação do ERAD-SP 2025."
-#     pdf: "ERAD-SP 2025 - LexisNexis - Palestra - Proposta.docx"
-#     speaker:
-#       name: "Mauro Donato Marques"
-#       bio: "Engenheiro de Software da área de Treinamento da LexisNexis Risk Solutions. Sua principal atuação está relacionada ao desenvolvimento de programas de treinamento no Brasil, contemplando o suporte e mentoria à comunidade acadêmica, no que tange à Projetos de Pesquisa, cursos de extensão extracurriculares, coorientação em disciplinas de Iniciação Científica, mentoria durante a elaboração de TCCs, dissertações de mestrado e teses de doutorado e, também, coautoria em artigos científicos, possibilitando que pesquisadores e estudantes utilizem a plataforma HPCC Systems, com capacidade computacional de alto desempenho, no desenvolvimento das suas atribuições acadêmicas."
-#       photo: "MauroDMarques.jpg"
-#   - id: PI3
-#     date: "29/05/2025 - 11h"
-#     name: "Palestra Industrial 3"
-#     title: "Palestra HPE"
-#     abstract: ""
-#     speaker:
-#       name: ""
-#       bio: ""
-#       photo: ""
-#   - id: P1
-#     date: "28/05/2025 - 16:30h"
-#     name: "Palestra Convidada 1"
-#     title: "Biofísica Computacional: HPC e fármacos"
-#     abstract: ""
-#     speaker:
-#       name: "Alexandre Suman de Araújo"
-#       bio: "Possui graduação em Bacharelado em Fisica Computacional (1999), Mestrado em Física (2002), Doutorado em Física (2006) e pós-doutorado na área de Biofísica Computacional (2006-2008) pelo IFSC-USP e pós-doutorado em Física Biológica (2008-2010) pela FCFRP-USP. Atualmente é Professor Assistente Doutor do Departamento de Física do IBILCE-UNESP em São José do Rio Preto. Tem experiência na área de Física Computacional e Biofísica Molecular Computacional, atuando principalmente nos seguintes temas: Física Computacional; Dinâmica Molecular; Simulações de Íons em solução aquosa, sistemas de interesse ambiental, sistemas proteicos do tipo ligante-receptor e folding de proteínas; Cristalografia de pequenas moléculas."
-#       photo: "AlexandreSumandeAraújo.jpg"
-#   - id: P2
-#     date: "29/05/2025 - 12h"
-#     name: "Palestra Convidada 2"
-#     title: "Palestra Danilo Carastan (INRIA/França)"
-#     abstract: ""
-#     speaker:
-#       name: "Danilo Carastan-Santos"
-#       bio: "Danilo Carastan dos Santos é doutor em Ciência da Computação pela Universidade Federal do ABC (UFABC) e Université Grenoble-Alpes (UGA), sob a orientação dos professores Raphael de Camargo e Denis Trystram. Seus principais tópicos de interesse são em computação de alto desempenho (HPC) e aprendizado de máquina, com ênfase em gerenciamento de recursos HPC, computação paralela e distribuída, GPGPU, métodos de regressão e aprendizado por reforço."
-#       photo: "Danilo-Carastan-Santos.jpg"
-#   - id: P3
-#     date: "30/05/2025 - 11h"
-#     name: "Palestra Convidada 3"
-#     title: "Computação Quântica"
-#     abstract: ""
-#     speaker:
-#       name: "Regina Melo Silveira (USP)"
-#       bio: "Professora e pesquisadora da Escola Politécnica da Universidade de São Paulo, onde está vinculada ao LARC (Laboratório de Arquitetura e Redes de Computadores). Atua na área desde 1995, desenvolvendo projetos na área de aplicações multimídia para redes de alta velocidade, compressão e transmissão de vídeo digital, sistema de Vídeo sob Demanda, TV Digital, indexão e gerenciamento de mídias digitais. Participou dos Projetos Poli-Virtual, Sistema Multimídia sob Demanda, RMAV-SP (Internet 2 de São Paulo), Tidia-Ae, KyaTera, TV Interativa em parceria com a TV Cultura e de Projetos para o Sistema Brasileiro de TV Digital (SBTVD) em parceria com outras instituições de ensino e pesquisa. Atualmente é Coordenadora do Grupo de Trabalho de Gerencia de Vídeo financiado pela RNP (Rede Nacional de Pesquisa e Ensino). Pós-doutorada pela University of California at Santa Cruz (2007), Doutora pela Escola Politécnica (2000) e Mestre em Física Experimental pelo Instituto de Física da Universidade de São Paulo (1994). Bacharel em Física pela Pontifícia Universidade Católica de São Paulo (1988). Tem atuado principalmente nos seguintes temas: rede de alta velocidade, aplicação multimídia, e em especial aplicações de vídeo sobre redes IP e web."
-#       photo: "ReginaMeloSilveira.jpg"
+keynotes:
+  # - id: PI1
+  #   date: "28/05/2025 - 11h"
+  #   name: "Palestra Industrial 1"
+  #   title: "Palestra Dell/Nvidia"
+  #   abstract: ""
+  #   speaker:
+  #     name: ""
+  #     bio: ""
+  #     photo: "logo-dell_nvidia-200x200.png"
+  - id: PI1
+    date: "02/09/2026 - 11h30"
+    name: "Palestra Industrial 1"
+    title: "Introdução ao Aprendizado de Máquina através de algoritmos com interface Myriad na plataforma HPCC Systems."
+    abstract: "A plataforma HPCC Systems de código aberto utiliza arquitetura de dados distribuída e uma metodologia de processamento paralelo para trabalhar com grandes conjuntos de dados. O 'pipeline' de dados na plataforma acompanha os dados desde a origem até a sua ingestão no cluster Thor, onde eles são refinados através de limpeza e padronização dos dados e, em seguida, enriquecidos, para depois, serem disponibilizados para aplicações de consulta em tempo real hospedadas no cluster Roxie. Em conjunto com essas duas arquiteturas de clusters e, compondo o chamado Power Trio, se faz presente a linguagem ECL, sendo a única linguagem necessária para expressar algoritmos de dados em toda a plataforma HPCC Systems. No cluster Thor, a linguagem ECL expressa “workflows” de dados que consistem em carregamento dados, transformação, vinculação, indexação etc. No cluster Roxie, a linguagem ECL define serviços de consultas de dados. A linguagem ECL é implicitamente paralela, portanto, o mesmo código ECL desenvolvido para ser executado em um cluster de nó único pode ser executado com a mesma facilidade em um cluster com centenas de nós. O programador não precisa se preocupar em implementar a paralelização, e a linguagem ECL possui uma função otimizadora que garante o melhor desempenho para uma arquitetura específica. Integrado à linguagem ECL encontram-se disponíveis diversas bibliotecas de Machine Learning aplicáveis às várias categorias de aprendizado de máquina, onde cada algoritmo tem suas próprias peculiaridades, as quais devem ser levadas em consideração para maximizar a precisão preditiva, tendo em conta que todos os 'bundles' operam de maneira muito semelhante, com algumas variações menores. Por esses motivos, é muito importante que não seja utilizada a exploração de Machine Learning para produzir produtos ou reivindicar habilidades sem antes consultar a documentação que acompanha cada 'bundle', a fim de usá-lo de forma efetiva. Finalmente, objetivando demonstrar a aplicação de algoritmos de Aprendizado de Máquina com interface Myriad na plataforma HPCC Systems, será apresentado um estudo de caso durante a realização do “Minicurso” dentro da programação do ERAD-SP 2025."
+    # pdf: "ERAD-SP 2025 - LexisNexis - Palestra - Proposta.docx"
+    speaker:
+      name: "Mauro Donato Marques"
+      bio: "Engenheiro de Software da área de Treinamento da LexisNexis Risk Solutions. Sua principal atuação está relacionada ao desenvolvimento de programas de treinamento no Brasil, contemplando o suporte e mentoria à comunidade acadêmica, no que tange à Projetos de Pesquisa, cursos de extensão extracurriculares, coorientação em disciplinas de Iniciação Científica, mentoria durante a elaboração de TCCs, dissertações de mestrado e teses de doutorado e, também, coautoria em artigos científicos, possibilitando que pesquisadores e estudantes utilizem a plataforma HPCC Systems, com capacidade computacional de alto desempenho, no desenvolvimento das suas atribuições acadêmicas."
+      photo: "MauroDMarques.jpg"
+  # - id: PI3
+  #   date: "29/05/2025 - 11h"
+  #   name: "Palestra Industrial 3"
+  #   title: "Palestra HPE"
+  #   abstract: ""
+  #   speaker:
+  #     name: ""
+  #     bio: ""
+  #     photo: ""
+  - id: P1
+    date: "02/09/2026 - 14:00h"
+    name: "Palestra Convidada 1"
+    title: "HPC"
+    abstract: ""
+    speaker:
+      name: "Prof. Pedro Leite da Silva Dias (IAG/USP)"
+      # bio: ""
+      # photo: ".jpg"
+  - id: P2
+    date: "03/09/2026 - 14h"
+    name: "Palestra Convidada 2"
+    title: 
+    abstract: ""
+    speaker:
+      name: "Prof. Grzegorz Kowal (EACH/USP)"
+      bio: "Grzegorz Kowal é professor associado da EACH-USP e pesquisador do Laboratório de Astrofísica Teórica. Doutor em Astronomia pela Universidade Jaguelônica, na Polônia, atua nas áreas de astrofísica computacional, turbulência magnetohidrodinâmica, reconexão magnética, instabilidades em plasmas e aceleração de partículas. Desenvolve e utiliza métodos numéricos, códigos paralelos e infraestruturas de computação de alto desempenho para simulações de plasmas astrofísicos em duas e três dimensões."
+      # photo: "Danilo-Carastan-Santos.jpg"
+  # - id: P3
+  #   date: "30/05/2025 - 11h"
+  #   name: "Palestra Convidada 3"
+  #   title: "Computação Quântica"
+  #   abstract: ""
+  #   speaker:
+  #     name: "Regina Melo Silveira (USP)"
+  #     bio: "Professora e pesquisadora da Escola Politécnica da Universidade de São Paulo, onde está vinculada ao LARC (Laboratório de Arquitetura e Redes de Computadores). Atua na área desde 1995, desenvolvendo projetos na área de aplicações multimídia para redes de alta velocidade, compressão e transmissão de vídeo digital, sistema de Vídeo sob Demanda, TV Digital, indexão e gerenciamento de mídias digitais. Participou dos Projetos Poli-Virtual, Sistema Multimídia sob Demanda, RMAV-SP (Internet 2 de São Paulo), Tidia-Ae, KyaTera, TV Interativa em parceria com a TV Cultura e de Projetos para o Sistema Brasileiro de TV Digital (SBTVD) em parceria com outras instituições de ensino e pesquisa. Atualmente é Coordenadora do Grupo de Trabalho de Gerencia de Vídeo financiado pela RNP (Rede Nacional de Pesquisa e Ensino). Pós-doutorada pela University of California at Santa Cruz (2007), Doutora pela Escola Politécnica (2000) e Mestre em Física Experimental pelo Instituto de Física da Universidade de São Paulo (1994). Bacharel em Física pela Pontifícia Universidade Católica de São Paulo (1988). Tem atuado principalmente nos seguintes temas: rede de alta velocidade, aplicação multimídia, e em especial aplicações de vídeo sobre redes IP e web."
+  #     photo: "ReginaMeloSilveira.jpg"
