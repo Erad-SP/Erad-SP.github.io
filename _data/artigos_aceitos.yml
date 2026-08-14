@@ -9,7 +9,7 @@ ic-track:
       name: "?"
     room: "Auditório Vermelho"
     papers:
-      - title: Análise de Desempenho de Representações Matriciais em Simulações de Transporte Eletrônico de Grafeno
+      - title: "Análise de Desempenho de Representações Matriciais em Simulações de Transporte Eletrônico de Grafeno"
         pdf:
         authors:
           - name: "Alex K. Kodama"
@@ -20,7 +20,7 @@ ic-track:
             institution: "" 
           - name: "Calebe de Paula Bianchini"
             institution: "" 
-      - title: Avaliação de Desempenho e Precisão na Implementação de Funções Trigonométricas Aproximadas
+      - title: "Avaliação de Desempenho e Precisão na Implementação de Funções Trigonométricas Aproximadas"
         pdf:
         authors:
           - name: "João Oliveira"
@@ -29,14 +29,14 @@ ic-track:
             institution: "" 
           - name: "João Fabrício Filho"
             institution: "" 
-      - title: Análise de Desempenho e Quantização do ModernBertBr
+      - title: "Análise de Desempenho e Quantização do ModernBertBr"
         pdf:
         authors:
           - name: "Anderson Soares"
             institution: "" 
           - name: "Helio C. Guardia"
             institution: "" 
-      - title: Estudo Inicial do Problema do Caixeiro Viajante utilizando Computação Quântica
+      - title: "Estudo Inicial do Problema do Caixeiro Viajante utilizando Computação Quântica"
         pdf:
         authors:
           - name: "Luíza Liao"
@@ -55,7 +55,7 @@ ic-track:
       name: "?"
     room: "Auditório Vermelho"
     papers:
-      - title: Aceleração de Ray Tracing em Arquiteturas Paralelas com OpenMP e CUDA
+      - title: "Aceleração de Ray Tracing em Arquiteturas Paralelas com OpenMP e CUDA"
         pdf:
         authors:
           - name: "Arthur Fonseca"
@@ -64,7 +64,7 @@ ic-track:
             institution: "" 
           - name: "Hélio Guardia"
             institution: "" 
-      - title: Desempenho e Portabilidade de uma Aplicação de Estêncil 3D entre CUDA e HIP
+      - title: "Desempenho e Portabilidade de uma Aplicação de Estêncil 3D entre CUDA e HIP"
         pdf:
         authors:
           - name: "Laura Barauna Ludgero"
@@ -73,7 +73,7 @@ ic-track:
             institution: "" 
           - name: "Hermes Senger"
             institution: "" 
-      - title: Parallelization of Adaptive Mesh Refinement Using OpenMP and CUDA
+      - title: "Parallelization of Adaptive Mesh Refinement Using OpenMP and CUDA"
         pdf:
         authors:
           - name: "Ronan Pereira Junior"
@@ -84,7 +84,7 @@ ic-track:
             institution: "" 
           - name: "Helio C. Guardia"
             institution: "" 
-      - title: Análise de Desempenho da Verificação de Convergência de Sequências Numéricas com OpenMP e CUDA
+      - title: "Análise de Desempenho da Verificação de Convergência de Sequências Numéricas com OpenMP e CUDA"
         pdf:
         authors:
           - name: "Hiago Gimenez Vieira"
@@ -105,14 +105,14 @@ ic-track:
       name: "?"
     room: "Auditório Vermelho"
     papers:
-      - title: Cross-Platform Performance Analysis of GNN-Based SAR-ATR on FPGAs
+      - title: "Cross-Platform Performance Analysis of GNN-Based SAR-ATR on FPGAs"
         pdf:
         authors:
           - name: "Frederico Meletti Rappa"
             institution: "" 
           - name: "Alfredo Goldman"
             institution: "" 
-      - title: Optimizing Matrix Multiplication on FPGAs using Spatial Parallelism and High-Level Synthesis
+      - title: "Optimizing Matrix Multiplication on FPGAs using Spatial Parallelism and High-Level Synthesis"
         pdf:
         authors:
           - name: "Henrique Gregory Gimenez"
@@ -123,14 +123,14 @@ ic-track:
             institution: "" 
           - name: "Edson Midorikawa"
             institution: "" 
-      - title: Stitching FPGA Dies into a Unified Pipeline for Seismic Stencil Acceleration
+      - title: "Stitching FPGA Dies into a Unified Pipeline for Seismic Stencil Acceleration"
         pdf:
         authors:
           - name: "Lucas Cilento"
             institution: "" 
           - name: "Edson Gomi"
             institution: "" 
-      - title: Decompondo a Compactação de um Garbage Collector Tricolor sobre um Acelerador PIM: Diagnóstico Arquitetural com o Simulador Sim2PIM
+      - title: "Decompondo a Compactação de um Garbage Collector Tricolor sobre um Acelerador PIM: Diagnóstico Arquitetural com o Simulador Sim2PIM"
         pdf:
         authors:
           - name: "Christopher Eduardo Zai"
@@ -147,7 +147,7 @@ ic-track:
       name: "?"
     room: "Auditório Vermelho"
     papers:
-      - title: A Testbed for Enabling Intelligence Offloading in Edge Computing for Object Detection
+      - title: "A Testbed for Enabling Intelligence Offloading in Edge Computing for Object Detection"
         pdf:
         authors:
           - name: "Reginaldo Luna"
@@ -158,21 +158,21 @@ ic-track:
             institution: "" 
           - name: "Hermes Senger"
             institution: "" 
-      - title: YOLOv8 para Detecção de Embarcações em Ambiente Fluvial Amazônico
+      - title: "YOLOv8 para Detecção de Embarcações em Ambiente Fluvial Amazônico"
         pdf:
         authors:
           - name: "Paulo Henrique Barros Diniz"
             institution: "" 
           - name: "Sarita Mazzini Bruschi"
             institution: "" 
-      - title: Avaliação de Desempenho na Inferência de LLMs: Um Estudo Comparativo entre TPU e GPU utilizando vLLM
+      - title: "Avaliação de Desempenho na Inferência de LLMs: Um Estudo Comparativo entre TPU e GPU utilizando vLLM"
         pdf:
         authors:
           - name: "Jose Augusto Marcellino de Lima"
             institution: "" 
           - name: "Calebe de Paula Bianchini"
             institution: "" 
-      - title: Caracterização da Inferência de LLMs Limitada por Memória em Hierarquias de DRAM e Memória Persistente
+      - title: "Caracterização da Inferência de LLMs Limitada por Memória em Hierarquias de DRAM e Memória Persistente"
         pdf:
         authors:
           - name: "Luísa Cattai"
@@ -189,7 +189,7 @@ ic-track:
       name: "?"
     room: "Auditório Vermelho"
     papers:
-      - title: Desempenho do Crivo de Eratóstenes com Bitset e OpenMP
+      - title: "Desempenho do Crivo de Eratóstenes com Bitset e OpenMP"
         pdf:
         authors:
           - name: "Hiago Gimenez Vieira"
@@ -200,21 +200,21 @@ ic-track:
             institution: "" 
           - name: "João Fabrício Filho"
             institution: "" 
-      - title: Finding Gallai Vertices in Parallel: An initial study
+      - title: "Finding Gallai Vertices in Parallel: An initial study"
         pdf:
         authors:
           - name: "Arthur Rodrigues"
             institution: "" 
           - name: "Alfredo Goldman"
             institution: "" 
-      - title: Fused Multiply-and-Prune SpGEMM for Bounded-Memory Iterative Graph Diffusion
+      - title: "Fused Multiply-and-Prune SpGEMM for Bounded-Memory Iterative Graph Diffusion"
         pdf:
         authors:
           - name: "André Tomitan"
             institution: "" 
           - name: "Alexandro Baldassin"
             institution: "" 
-      - title: Avaliação de técnicas de autotuning
+      - title: "Avaliação de técnicas de autotuning"
         pdf:
         authors:
           - name: "Virgilio Tagliavini"
@@ -231,14 +231,14 @@ ic-track:
       name: "?"
     room: "Auditório Vermelho"
     papers:
-      - title: Avaliação Comparativa de Desempenho entre Serviços de Mensageria em Ambiente de Computação em Nuvem
+      - title: "Avaliação Comparativa de Desempenho entre Serviços de Mensageria em Ambiente de Computação em Nuvem"
         pdf:
         authors:
           - name: "Lucas Bicalho Oliveira"
             institution: "" 
           - name: "Alvaro Luiz Fazenda"
             institution: "" 
-      - title: Análise do Impacto da Virtualização sobre os Estados de Economia de Energia de Processadores em Ambientes de Computação em Nuvem
+      - title: "Análise do Impacto da Virtualização sobre os Estados de Economia de Energia de Processadores em Ambientes de Computação em Nuvem"
         pdf:
         authors:
           - name: "Guilherme Costa"
@@ -247,14 +247,14 @@ ic-track:
             institution: "" 
           - name: "Daniel Cordeiro"
             institution: "" 
-      - title: Avaliação reprodutível de políticas de alocação e migração de VMs em data centers geodistribuídos sustentáveis
+      - title: "Avaliação reprodutível de políticas de alocação e migração de VMs em data centers geodistribuídos sustentáveis"
         pdf:
         authors:
           - name: "Guilherme Fernandes Moraes da Silva"
             institution: "" 
           - name: "Daniel Cordeiro"
             institution: "" 
-      - title: Um Simulador de Eventos Discretos Multiagentes Distribuído
+      - title: "Um Simulador de Eventos Discretos Multiagentes Distribuído"
         pdf:
         authors:
           - name: "Francisco Wallison Rocha"
@@ -263,7 +263,7 @@ ic-track:
             institution: "" 
           - name: "Daniel Cordeiro"
             institution: "" 
-      - title: Laboratório Didático de Computação Distribuída em EAD: Estudo de Caso com VirtualBox e AWS
+      - title: "Laboratório Didático de Computação Distribuída em EAD: Estudo de Caso com VirtualBox e AWS"
         pdf:
         authors:
           - name: "Felipe Barbosa da Silva"
