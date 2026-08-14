@@ -2,105 +2,271 @@ ic-track:
   -
     id: "Sessao1"
     title: "Sessão 1: Aplicações e Métodos Computacionais"
-    data: "02/09"
+    date: "02/09"
     start_time: "8:40"
     end_time: "10:00"
     chair:
       name: "?"
     room: "Auditório Vermelho"
     papers:
-      -pdf:
-      -authors:
-        -name: "Alex K. Kodama"
-        -institution: "" 
-        -name: "Gabriel T. Fonseca"
-        -institution: "" 
-        -name: "Thomas Pinheiro Grandin"
-        -institution: "" 
-        -name: "Calebe de Paula Bianchini"
-        -institution: "" 
+      - title: Análise de Desempenho de Representações Matriciais em Simulações de Transporte Eletrônico de Grafeno
+        pdf:
+        authors:
+          - name: "Alex K. Kodama"
+            institution: "" 
+          - name: "Gabriel T. Fonseca"
+            institution: "" 
+          - name: "Thomas Pinheiro Grandin"
+            institution: "" 
+          - name: "Calebe de Paula Bianchini"
+            institution: "" 
+      - title: Avaliação de Desempenho e Precisão na Implementação de Funções Trigonométricas Aproximadas
+        pdf:
+        authors:
+          - name: "João Oliveira"
+            institution: "" 
+          - name: "Rogério Aparecido Gonçalves"
+            institution: "" 
+          - name: "João Fabrício Filho"
+            institution: "" 
+      - title: Análise de Desempenho e Quantização do ModernBertBr
+        pdf:
+        authors:
+          - name: "Anderson Soares"
+            institution: "" 
+          - name: "Helio C. Guardia"
+            institution: "" 
+      - title: Estudo Inicial do Problema do Caixeiro Viajante utilizando Computação Quântica
+        pdf:
+        authors:
+          - name: "Luíza Liao"
+            institution: "" 
+          - name: "Pietro Zanaga"
+            institution: "" 
+          - name: "Calebe de Paula Bianchini"
+            institution: "" 
+  -
     id: "Sessao2"
     title: "Sessão 2: Computação Paralela e GPUs"
-    data: "02/09"
+    date: "02/09"
     start_time: "15:00"
     end_time: "16:20"
     chair:
       name: "?"
     room: "Auditório Vermelho"
     papers:
-      -pdf:
-      -authors:
-        -name: "Arthur Fonseca"
-        -institution: "" 
-        -name: "Lucas Alves"
-        -institution: "" 
-        -name: "Hélio Guardia"
-        -institution: "" 
+      - title: Aceleração de Ray Tracing em Arquiteturas Paralelas com OpenMP e CUDA
+        pdf:
+        authors:
+          - name: "Arthur Fonseca"
+            institution: "" 
+          - name: "Lucas Alves"
+            institution: "" 
+          - name: "Hélio Guardia"
+            institution: "" 
+      - title: Desempenho e Portabilidade de uma Aplicação de Estêncil 3D entre CUDA e HIP
+        pdf:
+        authors:
+          - name: "Laura Barauna Ludgero"
+            institution: "" 
+          - name: "Helio C. Guardia"
+            institution: "" 
+          - name: "Hermes Senger"
+            institution: "" 
+      - title: Parallelization of Adaptive Mesh Refinement Using OpenMP and CUDA
+        pdf:
+        authors:
+          - name: "Ronan Pereira Junior"
+            institution: "" 
+          - name: "Vinicius Kury"
+            institution: "" 
+          - name: "Ayla Nishino"
+            institution: "" 
+          - name: "Helio C. Guardia"
+            institution: "" 
+      - title: Análise de Desempenho da Verificação de Convergência de Sequências Numéricas com OpenMP e CUDA
+        pdf:
+        authors:
+          - name: "Hiago Gimenez Vieira"
+            institution: "" 
+          - name: "Maria Fernanda Fuchs Lopes"
+            institution: "" 
+          - name: "Fernando Cézar Gonçalves Manso"
+            institution: "" 
+          - name: "João Fabrício Filho"
+            institution: "" 
+  -
     id: "Sessao3"
     title: "Sessão 3: Arquiteturas Reconfiguráveis e Aceleradores"
-    data: "02/09"
+    date: "02/09"
     start_time: "16h50"
     end_time: "18:10"
     chair:
       name: "?"
     room: "Auditório Vermelho"
     papers:
-      -pdf:
-      -authors:
-        -name: "Frederico Meletti Rappa"
-        -institution: "" 
-        -name: "Alfredo Goldman"
-        -institution: "" 
+      - title: Cross-Platform Performance Analysis of GNN-Based SAR-ATR on FPGAs
+        pdf:
+        authors:
+          - name: "Frederico Meletti Rappa"
+            institution: "" 
+          - name: "Alfredo Goldman"
+            institution: "" 
+      - title: Optimizing Matrix Multiplication on FPGAs using Spatial Parallelism and High-Level Synthesis
+        pdf:
+        authors:
+          - name: "Henrique Gregory Gimenez"
+            institution: "" 
+          - name: "Liria Sato"
+            institution: "" 
+          - name: "Felipe Valencia de Almeida"
+            institution: "" 
+          - name: "Edson Midorikawa"
+            institution: "" 
+      - title: Stitching FPGA Dies into a Unified Pipeline for Seismic Stencil Acceleration
+        pdf:
+        authors:
+          - name: "Lucas Cilento"
+            institution: "" 
+          - name: "Edson Gomi"
+            institution: "" 
+      - title: Decompondo a Compactação de um Garbage Collector Tricolor sobre um Acelerador PIM: Diagnóstico Arquitetural com o Simulador Sim2PIM
+        pdf:
+        authors:
+          - name: "Christopher Eduardo Zai"
+            institution: "" 
+          - name: "João Fabrício Filho"
+            institution: "" 
+  -
     id: "Sessao4"
     title: "Sessão 4: IA, LLMs e Inferência"
-    data: "03/09"
+    date: "03/09"
     start_time: "15:00"
     end_time: "16:20"
     chair:
       name: "?"
     room: "Auditório Vermelho"
     papers:
-      -pdf:
-      -authors:
-        -name: "Reginaldo Luna"
-        -institution: "" 
-        -name: "Nicole Correa Ramos"
-        -institution: "" 
-        -name: "Ronan Pereira Junior"
-        -institution: "" 
-        -name: "Hermes Senger"
-        -institution: "" 
+      - title: A Testbed for Enabling Intelligence Offloading in Edge Computing for Object Detection
+        pdf:
+        authors:
+          - name: "Reginaldo Luna"
+            institution: "" 
+          - name: "Nicole Correa Ramos"
+            institution: "" 
+          - name: "Ronan Pereira Junior"
+            institution: "" 
+          - name: "Hermes Senger"
+            institution: "" 
+      - title: YOLOv8 para Detecção de Embarcações em Ambiente Fluvial Amazônico
+        pdf:
+        authors:
+          - name: "Paulo Henrique Barros Diniz"
+            institution: "" 
+          - name: "Sarita Mazzini Bruschi"
+            institution: "" 
+      - title: Avaliação de Desempenho na Inferência de LLMs: Um Estudo Comparativo entre TPU e GPU utilizando vLLM
+        pdf:
+        authors:
+          - name: "Jose Augusto Marcellino de Lima"
+            institution: "" 
+          - name: "Calebe de Paula Bianchini"
+            institution: "" 
+      - title: Caracterização da Inferência de LLMs Limitada por Memória em Hierarquias de DRAM e Memória Persistente
+        pdf:
+        authors:
+          - name: "Luísa Cattai"
+            institution: "" 
+          - name: "Alexandro Baldassin"
+            institution: "" 
+  -
     id: "Sessao5"
     title: "Sessão 5: Algoritmos Paralelos e Otimização"
-    data: "03/09"
+    date: "03/09"
     start_time: "16h50"
     end_time: "18:10"
     chair:
       name: "?"
     room: "Auditório Vermelho"
     papers:
-      -pdf:
-      -authors:
-        -name: "Hiago Gimenez Vieira"
-        -institution: "" 
-        -name: "Maria Fernanda Fuchs Lopes"
-        -institution: "" 
-        -name: "Fernando Cézar Gonçalves Manso"
-        -institution: "" 
-        -name: "João Fabrício Filho"
-        -institution: "" 
+      - title: Desempenho do Crivo de Eratóstenes com Bitset e OpenMP
+        pdf:
+        authors:
+          - name: "Hiago Gimenez Vieira"
+            institution: "" 
+          - name: "Maria Fernanda Fuchs Lopes"
+            institution: "" 
+          - name: "Fernando Cézar Gonçalves Manso"
+            institution: "" 
+          - name: "João Fabrício Filho"
+            institution: "" 
+      - title: Finding Gallai Vertices in Parallel: An initial study
+        pdf:
+        authors:
+          - name: "Arthur Rodrigues"
+            institution: "" 
+          - name: "Alfredo Goldman"
+            institution: "" 
+      - title: Fused Multiply-and-Prune SpGEMM for Bounded-Memory Iterative Graph Diffusion
+        pdf:
+        authors:
+          - name: "André Tomitan"
+            institution: "" 
+          - name: "Alexandro Baldassin"
+            institution: "" 
+      - title: Avaliação de técnicas de autotuning
+        pdf:
+        authors:
+          - name: "Virgilio Tagliavini"
+            institution: "" 
+          - name: "Aleardo Manacero Jr."
+            institution: "" 
+  -
     id: "Sessao6"
     title: "Sessão 6: Sistemas e Infraestrutura para HPC"
-    data: "04/09"
+    date: "04/09"
     start_time: "8:20"
     end_time: "10:00"
     chair:
       name: "?"
     room: "Auditório Vermelho"
     papers:
-      -pdf:
-      -authors:
-        -name: "Lucas Bicalho Oliveira"
-        -institution: "" 
-        -name: "Alvaro Luiz Fazenda"
-        -institution: "" 
+      - title: Avaliação Comparativa de Desempenho entre Serviços de Mensageria em Ambiente de Computação em Nuvem
+        pdf:
+        authors:
+          - name: "Lucas Bicalho Oliveira"
+            institution: "" 
+          - name: "Alvaro Luiz Fazenda"
+            institution: "" 
+      - title: Análise do Impacto da Virtualização sobre os Estados de Economia de Energia de Processadores em Ambientes de Computação em Nuvem
+        pdf:
+        authors:
+          - name: "Guilherme Costa"
+            institution: "" 
+          - name: "Renan Alves"
+            institution: "" 
+          - name: "Daniel Cordeiro"
+            institution: "" 
+      - title: Avaliação reprodutível de políticas de alocação e migração de VMs em data centers geodistribuídos sustentáveis
+        pdf:
+        authors:
+          - name: "Guilherme Fernandes Moraes da Silva"
+            institution: "" 
+          - name: "Daniel Cordeiro"
+            institution: "" 
+      - title: Um Simulador de Eventos Discretos Multiagentes Distribuído
+        pdf:
+        authors:
+          - name: "Francisco Wallison Rocha"
+            institution: "" 
+          - name: "Emilio Francesquini"
+            institution: "" 
+          - name: "Daniel Cordeiro"
+            institution: "" 
+      - title: Laboratório Didático de Computação Distribuída em EAD: Estudo de Caso com VirtualBox e AWS
+        pdf:
+        authors:
+          - name: "Felipe Barbosa da Silva"
+            institution: "" 
+          - name: "Maurício Gagliardi Palma"
+            institution: "" 
