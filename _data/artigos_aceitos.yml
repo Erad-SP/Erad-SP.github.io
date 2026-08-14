@@ -1,271 +1,106 @@
 ic-track:
   -
     id: "Sessao1"
-    title: "Só dá UFSCar"
-    date: "17/05"
-    start_time: "11:00"
-    end_time: "12:30"
+    title: "Sessão 1: Aplicações e Métodos Computacionais"
+    data: "02/09"
+    start_time: "8:40"
+    end_time: "10:00"
     chair:
       name: "?"
-    room: "Auditório - IGCE"
+    room: "Auditório Vermelho"
     papers:
-      - title: "Investigando a Efetividade de LLMs na Otimização de Código Paralelo"
-        pdf: 
-        authors:
-          - name: "Pedro Cattai"
-            institution: "UNESP"
-          - name: "Alexandro Baldassin"
-            institution: "UNESP"
-      - title: "Study and analysis of parallel N-body simulations"
-        pdf: 
-        authors:
-          - name: "Guilherme Arcencio"
-            institution: "UFSCar"
-          - name: "Helio Guardia"
-            institution: "UFSCar"
-      - title: "Ordenação Paralela com OpenMP e CUDA"
-        pdf: 
-        authors:
-          - name: "Heitor Colichio"
-            institution: "UFSCar"
-          - name: "Helio Guardia"
-            institution: "UFSCar"
-      - title: "Paralelização da Soma de Progressão Harmônica com OpenMP e CUDA"
-        pdf: 
-        authors:
-          - name: "Pedro Coleone"
-            institution: "UFSCar"
-          - name: "Pietro Moralles"
-            institution: "UFSCar"
-          - name: "Carlos Matos"
-            institution: "UFSCar"
-          - name: "Helio Guardia"
-            institution: "UFSCar"
-      - title: "Quebra-Cabeças de Loyd: um estudo de paralelização"
-        pdf: 
-        authors:
-          - name: "Júlia Oliveira"
-            institution: "UFSCar"
-          - name: "Jayme Furuyama"
-            institution: "UFSCar"
-          - name: "João Trevisan"
-            institution: "UFSCar"
-          - name: "Helio Guardia"
-            institution: "UFSCar"
-      - title: "Avaliando o Impacto da Alocação de Memória em Sistemas com Memória Persistente"
-        pdf: 
-        authors:
-          - name: "Otávio Souza"
-            institution: "UNESP"
-          - name: "Bruno Honório"
-            institution: "UNESP"
-          - name: "Alexandro Baldassin"
-            institution: "UNESP"
-      - title: "Programação paralela com Unity: um estudo de caso usando threads em CPU e em GPU"
-        pdf: 
-        authors:
-          - name: "Vitor Silva"
-            institution: "UFSCar"
-          - name: "Rodrigo Nunes"
-            institution: "UFSCar"
-          - name: "Helio Guardia"
-            institution: "UFSCar"
-      - title: "Um estudo de implementação paralela da Eliminação de Gauss usando OpenMP e CUDA"
-        pdf: 
-        authors:
-          - name: "Vítor Milanez"
-            institution: "UFSCar"
-          - name: "Ivan Navas"
-            institution: "UFSCar"
-          - name: "João Migliatti"
-            institution: "UFSCar"
-          - name: "Matheus Miata"
-            institution: "UFSCar"
-          - name: "Helio Guardia"
-            institution: "UFSCar"
-      - title: "Análise comparativa da ResNet-50 em FPGA e CPU"
-        pdf: 
-        authors:
-          - name: "Calebe Bianchini"
-            institution: "Mackenzie"
-          - name: "José F. C. Martins"
-            institution: "Centro Universitário FEI"
-          - name: "João V. R. M. G. Canella"
-            institution: "Centro Universitário FEI"
-          - name: "Gabriel L. P. Sabino"
-            institution: "Centro Universitário FEI"
-          - name: "Murilo G. Munhoz"
-            institution: "Centro Universitário FEI"
-  -
+      -pdf:
+      -authors:
+        -name: "Alex K. Kodama"
+        -institution: "" 
+        -name: "Gabriel T. Fonseca"
+        -institution: "" 
+        -name: "Thomas Pinheiro Grandin"
+        -institution: "" 
+        -name: "Calebe de Paula Bianchini"
+        -institution: "" 
     id: "Sessao2"
-    title: "Só dá UTFPR"
-    date: "18/05"
-    start_time: "8:00"
-    end_time: "9:30"
+    title: "Sessão 2: Computação Paralela e GPUs"
+    data: "02/09"
+    start_time: "15:00"
+    end_time: "16:20"
     chair:
       name: "?"
-    room: "Auditório - IGCE"
+    room: "Auditório Vermelho"
     papers:
-      - title: "Comparação Qualitativa das Interfaces de Programação em Memória Persistente"
-        pdf: 
-        authors:
-          - name: "André Pupin"
-            institution: "UNESP"
-          - name: "Alexandro Baldassin"
-            institution: "UNESP"
-          - name: "Emílio Francesquini"
-            institution: "UFABC"
-      - title: "Módulo de Escalonadores para Simulação de Sistemas Exascale"
-        pdf: 
-        authors:
-          - name: "William Martins"
-            institution: "UNESP"
-          - name: "Aleardo Manacero Jr."
-            institution: "UNESP"
-          - name: "Renata Spolon Lobato"
-            institution: "UNESP"
-          - name: "Roberta Spolon"
-            institution: "UNESP"
-      - title: "Criação de um Dataset para Caracterização de Código de Contratos Inteligentes na Rede Ethereum"
-        pdf: 
-        authors:
-          - name: "João Ricardo Pereira Marques"
-            institution: "UTFPR"
-          - name: "João Fabrício Filho"
-            institution: "UTFPR"
-          - name: "Rogério Gonçalves"
-            institution: "UTFPR"
-      - title: "OpenMP em Direção á Aproximação: Loop Perforation e Multithreading"
-        pdf: 
-        authors:
-          - name: "João Briganti"
-            institution: "UTFPR"
-          - name: "Rogério Gonçalves"
-            institution: "UTFPR"
-          - name: "João Fabrício Filho"
-            institution: "UTFPR"
-      - title: "Análise da melhoria de desempenho do algoritmo A* utilizando OpenMP"
-        pdf: 
-        authors:
-          - name: "Eduardo Silva"
-            institution: "UTFPR"
-          - name: "Rogério Gonçalves"
-            institution: "UTFPR"
-          - name: "João Fabrício Filho"
-            institution: "UTFPR"
-      - title: "Implementações de Processadores MIPS em Simulador Visual"
-        pdf: 
-        authors:
-          - name: "Christofer Daniel Rodrigues Santos"
-            institution: "UTFPR"
-          - name: "Rogério Gonçalves"
-            institution: "UTFPR"
-          - name: "João Fabrício Filho"
-            institution: "UTFPR"
-      - title: "Comparação da variabilidade de tempo de execução em diferentes algoritmos de multiplicação de matrizes"
-        pdf: 
-        authors:
-          - name: "Victor de Oliveira"
-            institution: "UTFPR"
-          - name: "Rogério Gonçalves"
-            institution: "UTFPR"
-          - name: "João Fabrício Filho"
-            institution: "UTFPR"
-      - title: "CausalBioCF: Causalidade e otimização bioinspirada para geração de contrafactuais factíveis em tempo real"
-        pdf: 
-        authors:
-          - name: "Gabriel Covello Furlanetto"
-            institution: "UNESP"
-          - name: "Alexandro Baldassin"
-            institution: "UNESP"
-          - name: "Aleardo Manacero Jr."
-            institution: "UNESP"
-      - title: "Investigando Fatores de Desempenho em Dispositivos Persistentes"
-        pdf: 
-        authors:
-          - name: "Lucas Spagnol"
-            institution: "UNESP"
-          - name: "Alexandro Baldassin"
-            institution: "UNESP"
-          - name: "Emílio Francesquini"
-            institution: "UFABC"
-          - name: "Bruno Honorio"
-            institution: "UNESP"
-          - name: "Edgar Galvão de França"
-            institution: "UNESP"
-  -
+      -pdf:
+      -authors:
+        -name: "Arthur Fonseca"
+        -institution: "" 
+        -name: "Lucas Alves"
+        -institution: "" 
+        -name: "Hélio Guardia"
+        -institution: "" 
     id: "Sessao3"
-    title: "É hora do Temático"
-    date: "18/05"
-    start_time: "11:00"
-    end_time: "12:30"
+    title: "Sessão 3: Arquiteturas Reconfiguráveis e Aceleradores"
+    data: "02/09"
+    start_time: "16h50"
+    end_time: "18:10"
     chair:
       name: "?"
-    room: "Auditório - IGCE"
+    room: "Auditório Vermelho"
     papers:
-      - title: "Estudos sobre Estratégias de Minimização de Emissão de CO? em Data Centers por meio de Simuladores"
-        pdf: 
-        authors:
-          - name: "Gabriella Saraiva"
-            institution: "USP"
-          - name: "Sarita Bruschi"
-            institution: "USP"
-          - name: "Daniel Cordeiro"
-            institution: "USP"
-      - title: "Análise de diferentes tecnologias de painéis fotovoltaicos e baterias na redução de CO2 na operação de data centers."
-        pdf: 
-        authors:
-          - name: "Yannis Pontuschka"
-            institution: "USP"
-          - name: "Daniel Cordeiro"
-            institution: "USP"
-      - title: "Storage Class Memory: Avanços e Limitações em Direção às Memórias Universais"
-        pdf: 
-        authors:
-          - name: "Pedro Ferro Laks"
-            institution: "UFABC"
-          - name: "Emílio Francesquini"
-            institution: "UFABC"
-      - title: "Improving Performance Estimation of Smart City Simulations Using the Actor Model"
-        pdf: 
-        authors:
-          - name: "Francisco Wallison Rocha"
-            institution: "USP"
-          - name: "Emílio Francesquini"
-            institution: "UFABC"
-          - name: "Daniel Cordeiro"
-            institution: "USP"
-      - title: "Escalonamento com Consciência Energética para Fluxos de Trabalho Científicos sem Servidor: Uma Abordagem de Aprendizado de Máquina"
-        pdf: 
-        authors:
-          - name: "Lucas Rosa"
-            institution: "USP"
-          - name: "Alfredo Goldman"
-            institution: "USP"
-      - title: "Dynamic Hardware Customisation for Mobile Users in FPGA-accelerated Edge Infrastructures"
-        pdf: 
-        authors:
-          - name: "Diogo Gonçalves"
-            institution: "UNICAMP"
-          - name: "Edmundo Madeira"
-            institution: "UNICAMP"
-          - name: "Luiz Fernando Bittencourt"
-            institution: "UNICAMP"
-      - title: "A Reproducible I/O Analyzer"
-        pdf: 
-        authors:
-          - name: "Rodrigo Pereira do Nascimento"
-            institution: "Instituto de Pesquisas Tecnológicas"
-          - name: "Alfredo Goldman"
-            institution: "USP"
-      - title: "AWS powered cloud research environment PaaS"
-        pdf: 
-        authors:
-          - name: "Diego Pedroso"
-            institution: "USP"
-          - name: "Lucas Eduardo Pulcinelli"
-            institution: "USP"
-          - name: "William Aisawa"
-            institution: "USP"
-          - name: "Sarita Bruschi"
-            institution: "USP"
+      -pdf:
+      -authors:
+        -name: "Frederico Meletti Rappa"
+        -institution: "" 
+        -name: "Alfredo Goldman"
+        -institution: "" 
+    id: "Sessao4"
+    title: "Sessão 4: IA, LLMs e Inferência"
+    data: "03/09"
+    start_time: "15:00"
+    end_time: "16:20"
+    chair:
+      name: "?"
+    room: "Auditório Vermelho"
+    papers:
+      -pdf:
+      -authors:
+        -name: "Reginaldo Luna"
+        -institution: "" 
+        -name: "Nicole Correa Ramos"
+        -institution: "" 
+        -name: "Ronan Pereira Junior"
+        -institution: "" 
+        -name: "Hermes Senger"
+        -institution: "" 
+    id: "Sessao5"
+    title: "Sessão 5: Algoritmos Paralelos e Otimização"
+    data: "03/09"
+    start_time: "16h50"
+    end_time: "18:10"
+    chair:
+      name: "?"
+    room: "Auditório Vermelho"
+    papers:
+      -pdf:
+      -authors:
+        -name: "Hiago Gimenez Vieira"
+        -institution: "" 
+        -name: "Maria Fernanda Fuchs Lopes"
+        -institution: "" 
+        -name: "Fernando Cézar Gonçalves Manso"
+        -institution: "" 
+        -name: "João Fabrício Filho"
+        -institution: "" 
+    id: "Sessao6"
+    title: "Sessão 6: Sistemas e Infraestrutura para HPC"
+    data: "04/09"
+    start_time: "8:20"
+    end_time: "10:00"
+    chair:
+      name: "?"
+    room: "Auditório Vermelho"
+    papers:
+      -pdf:
+      -authors:
+        -name: "Lucas Bicalho Oliveira"
+        -institution: "" 
+        -name: "Alvaro Luiz Fazenda"
+        -institution: "" 
