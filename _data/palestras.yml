@@ -44,7 +44,7 @@ keynotes:
     speaker:
       name: "Leonardo Delatim"
       bio: "Leonardo Delatim é Senior Principal Engineer na Dell Technologies, com foco em workloads de Inteligência Artificial, HPC e Edge Computing no Brasil e na América Latina. Atua como trust advisor para clientes e parceiros, ajudando no desenvolvimento de soluções que facilitam a adoção de Edge Computing, Computer Vision, AI, GenAI e HPC. Com pós-graduação em Inteligência Artificial e formação técnica em Segurança da Informação e Análise de Sistemas, além de mais de 12 anos de experiência em tecnologia da informação, lidera conversas técnicas sobre arquiteturas, dimensionamento, melhores práticas, workshops, atividades hands-on e provas de conceito. Sua experiência combina infraestrutura de data center, cloud, armazenamento, virtualização e plataformas corporativas, apoiando casos de uso em diferentes segmentos de mercado e acelerando a transformação de ideias em inovação com IA e HPC."
-      photo: "Leonardo-Delatim.jpg"
+      photo: "Leonardo-Delatim.jpeg"
   - id: P1
     date: "02/09/2026 - 14:00h"
     name: "Palestra Convidada 1"
