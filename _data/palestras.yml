@@ -47,8 +47,8 @@ keynotes:
       photo: "Leonardo-Delatim.jpeg"
   - id: P1
     date: "02/09/2026 - 14:00h"
-    name: "Supercomputação no Brasil: máquinas se compram, capacidade se constrói"
-    title: "HPC"
+    name: "Palestra Convidada 1"
+    title: "Supercomputação no Brasil: máquinas se compram, capacidade se constrói"
     abstract: ""
     speaker:
       name: "Prof. Pedro Leite da Silva Dias (IAG/USP)"
@@ -57,7 +57,7 @@ keynotes:
   - id: P2
     date: "03/09/2026 - 14h"
     name: "Palestra Convidada 2"
-    title: 
+    title: "Do plasma ao processamento paralelo: computação de alto desempenho no Laboratório de Astrofísica Teórica da EACH-USP"
     abstract: |
       A palestra apresentará como a computação de alto desempenho é utilizada no Laboratório de Astrofísica Teórica da EACH-USP para investigar problemas em astrofísica de plasmas. Inicialmente, será descrita a infraestrutura do cluster Hydra e o fluxo de trabalho adotado desde a formulação dos modelos físicos até a execução, análise e visualização dos resultados.
 
