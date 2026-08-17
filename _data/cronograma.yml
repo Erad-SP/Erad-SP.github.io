@@ -117,15 +117,15 @@ schedule:
         description: " "
         link: "palestras.html#PI3"
         type: "lecture"
-        start_time: "11:00"
-        end_time: "11:30"
+        start_time: "11:30"
+        end_time: "12:00"
         room: "Auditório"
         speakers:
           - name: " "
             institution: "KAIAK"
       - title: "Almoço"
         type: "general"
-        start_time: "12:30"
+        start_time: "12:00"
         end_time: "14:00"
       - title: "Palestra Convidada: Do plasma ao processamento paralelo: computação de alto desempenho no Laboratório de Astrofísica Teórica da EACH-USP"
         description: | 
