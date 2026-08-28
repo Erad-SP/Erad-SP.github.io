@@ -118,7 +118,7 @@ schedule:
         start_time: "10:30"
         end_time: "11:00"
         room: ""
-      - title: "Palestra VersatusHPC"
+      - title: "HPC em transformação: a evolução da Computação de Alto Desempenho até 2026"
         description: " "
         link: "palestras.html#PI2"
         type: "lecture"
@@ -126,7 +126,7 @@ schedule:
         end_time: "11:30"
         room: "Auditório Vermelho"
         speakers:
-          - name: " "
+          - name: "Otávio Rodrigues Bambans"
             institution: "VersatusHPC"
       - title: "Palestra KAIAK"
         description: " "
