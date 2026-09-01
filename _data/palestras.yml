@@ -10,7 +10,7 @@ keynotes:
   #     photo: "logo-dell_nvidia-200x200.png"
   - id: PI1
     date: "02/09/2026 - 10h30"
-    name: "Palestra Industrial 1"
+    name: "Palestra Industrial 1 (LexisNexis Risk Solutions)"
     title: "Introdução ao Aprendizado de Máquina através de algoritmos com interface Myriad na plataforma HPCC Systems."
     abstract: "A plataforma HPCC Systems de código aberto utiliza arquitetura de dados distribuída e uma metodologia de processamento paralelo para trabalhar com grandes conjuntos de dados. O 'pipeline' de dados na plataforma acompanha os dados desde a origem até a sua ingestão no cluster Thor, onde eles são refinados através de limpeza e padronização dos dados e, em seguida, enriquecidos, para depois, serem disponibilizados para aplicações de consulta em tempo real hospedadas no cluster Roxie. Em conjunto com essas duas arquiteturas de clusters e, compondo o chamado Power Trio, se faz presente a linguagem ECL, sendo a única linguagem necessária para expressar algoritmos de dados em toda a plataforma HPCC Systems. No cluster Thor, a linguagem ECL expressa “workflows” de dados que consistem em carregamento dados, transformação, vinculação, indexação etc. No cluster Roxie, a linguagem ECL define serviços de consultas de dados. A linguagem ECL é implicitamente paralela, portanto, o mesmo código ECL desenvolvido para ser executado em um cluster de nó único pode ser executado com a mesma facilidade em um cluster com centenas de nós. O programador não precisa se preocupar em implementar a paralelização, e a linguagem ECL possui uma função otimizadora que garante o melhor desempenho para uma arquitetura específica. Integrado à linguagem ECL encontram-se disponíveis diversas bibliotecas de Machine Learning aplicáveis às várias categorias de aprendizado de máquina, onde cada algoritmo tem suas próprias peculiaridades, as quais devem ser levadas em consideração para maximizar a precisão preditiva, tendo em conta que todos os 'bundles' operam de maneira muito semelhante, com algumas variações menores. Por esses motivos, é muito importante que não seja utilizada a exploração de Machine Learning para produzir produtos ou reivindicar habilidades sem antes consultar a documentação que acompanha cada 'bundle', a fim de usá-lo de forma efetiva. Finalmente, objetivando demonstrar a aplicação de algoritmos de Aprendizado de Máquina com interface Myriad na plataforma HPCC Systems, será apresentado um estudo de caso durante a realização do 'Minicurso' dentro da programação do ERAD-SP 2026."
     # pdf: "ERAD-SP 2025 - LexisNexis - Palestra - Proposta.docx"
@@ -19,15 +19,24 @@ keynotes:
       bio: "Engenheiro de Software da área de Treinamento da LexisNexis Risk Solutions. Sua principal atuação está relacionada ao desenvolvimento de programas de treinamento no Brasil, contemplando o suporte e mentoria à comunidade acadêmica, no que tange à Projetos de Pesquisa, cursos de extensão extracurriculares, coorientação em disciplinas de Iniciação Científica, mentoria durante a elaboração de TCCs, dissertações de mestrado e teses de doutorado e, também, coautoria em artigos científicos, possibilitando que pesquisadores e estudantes utilizem a plataforma HPCC Systems, com capacidade computacional de alto desempenho, no desenvolvimento das suas atribuições acadêmicas."
       photo: "MauroDMarques.jpg"
   - id: PI2
+    date: "02/09/2026 - 11h00"
+    name: "Palestra Industrial 5 (Bull)"
+    title: "Construir um máquina para IA ou HPC?"
+    abstract: "Com a crescente demanda por alto desempenho computacional, escolher entre arquiteturas dedicadas à Inteligência Artificial ou à Computação de Alto Desempenho (HPC) tornou-se um dilema estratégico. Nesta apresentação, Genaro Costa explora os principais desafios de projeto, modelos de desempenho e requisitos de hardware para cada cenário, discutindo quando vale a pena investir em soluções dedicadas versus ambientes híbridos para maximizar eficiência e resultados."
+    speaker:
+      name: "Genaro Costa"
+      bio: "Graduado em computação com doutorado em arquitetura de computadores pela Universidade Autonoma de Barcelona. Professor Adjunto do IHAC/UFBa, atua como Arquiteto de Soluções e Gestor de laboratório de pesquisa e desenvolvimento da Bull no SENAI/CIMATEC. Tem interesse em Modelos de Desempenho, Computação Paralela, Computação Quântica e Inteligência Artificial."
+      photo: "Genaro.jpg"
+  - id: PI3
     date: "03/09/2026 - 11h"
-    name: "Palestra Industrial 2"
+    name: "Palestra Industrial 2 (Versatus HPC)"
     title: "HPC em transformação: a evolução da Computação de Alto Desempenho até 2026"
     abstract: "A Computação de Alto Desempenho (HPC) mudou significativamente ao longo das últimas décadas, impulsionada pela evolução tecnológica e pelas novas demandas científicas. Revisitaremos parte dessa trajetória, dos supercomputadores tradicionais aos sistemas heterogêneos atuais, destacando o uso de aceleradores, os desafios de eficiência energética e movimentação de dados e, mais recentemente, a convergência entre HPC e Inteligência Artificial. A partir desse panorama, discutiremos como essas transformações vêm redefinindo o HPC, o papel da Versatus HPC e da comunidade brasileira nesse processo e os desafios que devem orientar sua evolução para além de 2026."
     speaker:
       name: "Otávio Rodrigues Bambans"
-      bio: "Otávio Rodrigues Bambans é HPC Solutions Architect na Versatus HPC e Bacharel em Sistemas de Informação pela Universidade de São Paulo (USP). Possui experiência nas áreas de Arquitetura de Sistemas Computacionais de Alto Desempenho (HPC), Ciência de Dados, Internet das Coisas e Representação do Conhecimento. Ao longo de sua trajetória, participou de projetos de pesquisa científica na USP e de atividades da Sociedade Brasileira de Computação (SBC). Atualmente, atua no desenvolvimento e compartilhamento de soluções em Computação de Alto Desempenho, combinando experiência acadêmica e profissional."
+      bio: " é HPC Solutions Architect na Versatus HPC e Bacharel em Sistemas de Informação pela Universidade de São Paulo (USP). Possui experiência nas áreas de Arquitetura de Sistemas Computacionais de Alto Desempenho (HPC), Ciência de Dados, Internet das Coisas e Representação do Conhecimento. Ao longo de sua trajetória, participou de projetos de pesquisa científica na USP e de atividades da Sociedade Brasileira de Computação (SBC). Atualmente, atua no desenvolvimento e compartilhamento de soluções em Computação de Alto Desempenho, combinando experiência acadêmica e profissional."
       photo: ""
-  - id: PI3
+  - id: PI4
     date: "03/09/2026 - 11h30"
     name: "Palestra Industrial 3"
     title: "Palestra KAIAK"
@@ -36,24 +45,15 @@ keynotes:
       name: ""
       bio: ""
       photo: ""
-  - id: PI4
+  - id: PI5
     date: "04/09/2026 - 10h30"
-    name: "Palestra Industrial 4"
+    name: "Palestra Industrial 4 (Dell)"
     title: "Dell AI Factory: O caminho para acelerar das ideias à inovação com IA e HPC"
     abstract: ""
     speaker:
       name: "Leonardo Delatim"
       bio: "Leonardo Delatim é Senior Principal Engineer na Dell Technologies, com foco em workloads de Inteligência Artificial, HPC e Edge Computing no Brasil e na América Latina. Atua como trust advisor para clientes e parceiros, ajudando no desenvolvimento de soluções que facilitam a adoção de Edge Computing, Computer Vision, AI, GenAI e HPC. Com pós-graduação em Inteligência Artificial e formação técnica em Segurança da Informação e Análise de Sistemas, além de mais de 12 anos de experiência em tecnologia da informação, lidera conversas técnicas sobre arquiteturas, dimensionamento, melhores práticas, workshops, atividades hands-on e provas de conceito. Sua experiência combina infraestrutura de data center, cloud, armazenamento, virtualização e plataformas corporativas, apoiando casos de uso em diferentes segmentos de mercado e acelerando a transformação de ideias em inovação com IA e HPC."
       photo: "Leonardo-Delatim.jpeg"
-  - id: PI5
-    date: "02/09/2026 - 11h00"
-    name: "Palestra Industrial 5"
-    title: "Palestra Bull"
-    abstract: ""
-    speaker:
-      name: ""
-      bio: ""
-      photo: ""
   - id: P1
     date: "02/09/2026 - 14:00h"
     name: "Palestra Convidada 1"
