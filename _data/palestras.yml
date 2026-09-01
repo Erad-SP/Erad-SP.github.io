@@ -20,7 +20,7 @@ keynotes:
       photo: "MauroDMarques.jpg"
   - id: PI2
     date: "02/09/2026 - 11h00"
-    name: "Palestra Industrial 5 (Bull)"
+    name: "Palestra Industrial 2 (Bull)"
     title: "Construir um máquina para IA ou HPC?"
     abstract: "Com a crescente demanda por alto desempenho computacional, escolher entre arquiteturas dedicadas à Inteligência Artificial ou à Computação de Alto Desempenho (HPC) tornou-se um dilema estratégico. Nesta apresentação, Genaro Costa explora os principais desafios de projeto, modelos de desempenho e requisitos de hardware para cada cenário, discutindo quando vale a pena investir em soluções dedicadas versus ambientes híbridos para maximizar eficiência e resultados."
     speaker:
@@ -29,16 +29,16 @@ keynotes:
       photo: "Genaro.jpg"
   - id: PI3
     date: "03/09/2026 - 11h"
-    name: "Palestra Industrial 2 (Versatus HPC)"
+    name: "Palestra Industrial 3 (Versatus HPC)"
     title: "HPC em transformação: a evolução da Computação de Alto Desempenho até 2026"
     abstract: "A Computação de Alto Desempenho (HPC) mudou significativamente ao longo das últimas décadas, impulsionada pela evolução tecnológica e pelas novas demandas científicas. Revisitaremos parte dessa trajetória, dos supercomputadores tradicionais aos sistemas heterogêneos atuais, destacando o uso de aceleradores, os desafios de eficiência energética e movimentação de dados e, mais recentemente, a convergência entre HPC e Inteligência Artificial. A partir desse panorama, discutiremos como essas transformações vêm redefinindo o HPC, o papel da Versatus HPC e da comunidade brasileira nesse processo e os desafios que devem orientar sua evolução para além de 2026."
     speaker:
       name: "Otávio Rodrigues Bambans"
       bio: " é HPC Solutions Architect na Versatus HPC e Bacharel em Sistemas de Informação pela Universidade de São Paulo (USP). Possui experiência nas áreas de Arquitetura de Sistemas Computacionais de Alto Desempenho (HPC), Ciência de Dados, Internet das Coisas e Representação do Conhecimento. Ao longo de sua trajetória, participou de projetos de pesquisa científica na USP e de atividades da Sociedade Brasileira de Computação (SBC). Atualmente, atua no desenvolvimento e compartilhamento de soluções em Computação de Alto Desempenho, combinando experiência acadêmica e profissional."
-      photo: ""
+      photo: "Bambans.jpeg"
   - id: PI4
     date: "03/09/2026 - 11h30"
-    name: "Palestra Industrial 3"
+    name: "Palestra Industrial 4"
     title: "Palestra KAIAK"
     abstract: ""
     speaker:
@@ -47,7 +47,7 @@ keynotes:
       photo: ""
   - id: PI5
     date: "04/09/2026 - 10h30"
-    name: "Palestra Industrial 4 (Dell)"
+    name: "Palestra Industrial 5 (Dell)"
     title: "Dell AI Factory: O caminho para acelerar das ideias à inovação com IA e HPC"
     abstract: ""
     speaker:
