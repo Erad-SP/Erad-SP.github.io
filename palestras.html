@@ -18,9 +18,11 @@ title: "Palestras"
                     <p class="lead keynote-date">
                         <b>Horário</b>: {{ keynote.date }}
                     </p>
+                    {% if keynote.abstract != "" %}
                     <p class="lead">
                         <b>Resumo</b>: {{ keynote.abstract }}
                     </p>
+                    {% endif %}
                     <h4>Palestrante</h4>
                     <div class="row">
                         <div class col-md-12>
