@@ -128,7 +128,7 @@ schedule:
         speakers:
           - name: "Otávio Rodrigues Bambans"
             institution: "VersatusHPC"
-      - title: "Palestra KAIAK"
+      - title: "Your AI future is Liquid-Cooled... are you ready?"
         description: " "
         link: "palestras.html#PI4"
         type: "lecture"
@@ -136,7 +136,7 @@ schedule:
         end_time: "12:00"
         room: "Auditório Vermelho"
         speakers:
-          - name: " "
+          - name: "Victor Romeo"
             institution: "KAIAK"
       - title: "Almoço"
         type: "general"

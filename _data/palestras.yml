@@ -38,12 +38,12 @@ keynotes:
       photo: "Bambans.jpeg"
   - id: PI4
     date: "03/09/2026 - 11h30"
-    name: "Palestra Industrial 4"
-    title: "Palestra KAIAK"
+    name: "Palestra Industrial 4 (KAIAK)"
+    title: "Your AI future is Liquid-Cooled... are you ready?"
     abstract: ""
     speaker:
-      name: ""
-      bio: ""
+      name: "Victor Romeo"
+      bio: "HPC/AI solution architect"
       photo: ""
   - id: PI5
     date: "04/09/2026 - 10h30"
