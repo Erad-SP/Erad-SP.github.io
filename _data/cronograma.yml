@@ -220,7 +220,7 @@ schedule:
         speakers:
           - name: "Leonardo Delatim -  Senior Principal Engineer"
             institution: "Dell Technologies"
-      - title: "Cerimônia de Encerramento e Premiação"
+      - title: "Cerimônia de Encerramento"
         type: "general"
         start_time: "11:30"
         end_time: "12:00"
